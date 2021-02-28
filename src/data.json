@@ -1,0 +1,2764 @@
+{
+    "app": [
+        {
+            "appTitle": "Floor Plan Creator",
+            "app_link": "/store/apps/developer?id=Marcin+Lewandowski",
+            "app_mini_description": "Floor Plan Creator lets you create, edit and share floor plans easily.",
+            "category": "Art and Design"
+        },
+        {
+            "appTitle": "Over: Add Text to Photos & Graphic Design Maker",
+            "app_link": "/store/apps/dev?id=6959526238859339120",
+            "app_mini_description": "Use Over's photo editor for your designs, add text to photos and edit like a pro",
+            "category": "Art and Design"
+        },
+        {
+            "appTitle": "Unfold \u2014 Story Maker & Instagram Template Editor",
+            "app_link": "/store/apps/dev?id=6743351871693829033",
+            "app_mini_description": "Create beautiful stories with 400+ design templates for Insta Stories.",
+            "category": "Art and Design"
+        },
+        {
+            "appTitle": "Behance: Photography, Graphic Design, Illustration",
+            "app_link": "/store/apps/developer?id=Adobe+Inc",
+            "app_mini_description": "The free art community to find inspiration, learn, share work, and get feedback",
+            "category": "Art and Design"
+        },
+        {
+            "appTitle": "UNUM \u2014 Design Photo & Video Layout & Collage",
+            "app_link": "/store/apps/developer?id=UNUM,+Inc.",
+            "app_mini_description": "Plan for Instagram, TikTok, Pinterest, Snapchat & more. \nDesign, share & post!",
+            "category": "Art and Design"
+        },
+        {
+            "appTitle": "Expeditions",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "See anything, go anywhere",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Measure",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Turn your phone into a tape measure",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "GeoGebra 3D Calculator",
+            "app_link": "/store/apps/developer?id=International+GeoGebra+Institute",
+            "app_mini_description": "Graph 3D functions, plot surfaces and do 3D geometry with our free 3D Grapher",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Civilisations AR",
+            "app_link": "/store/apps/developer?id=Media+Applications+Technologies+for+the+BBC",
+            "app_mini_description": "Bring art and culture from across the world to you with this BBC AR app.",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Human Anatomy Atlas 2021:\u00a0Complete 3D Human Body",
+            "app_link": "/store/apps/dev?id=5922919954166686783",
+            "app_mini_description": "A comprehensive 3D atlas of the human body",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "INSIGHT HEART",
+            "app_link": "/store/apps/developer?id=ANIMA+RES+GmbH",
+            "app_mini_description": "INSIGHT HEART - The human heart expedition",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Star Chart AR",
+            "app_link": "/store/apps/dev?id=7340001391442011060",
+            "app_mini_description": "View the Earth & Solar System in Augmented Reality with Star Chart AR",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Spacecraft AR",
+            "app_link": "/store/apps/developer?id=Jet+Propulsion+Laboratory",
+            "app_mini_description": "Check out some of NASA\u2019s robotic explorers through stunning augmented reality.",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Anatomy Learning - 3D Anatomy Atlas",
+            "app_link": "/store/apps/developer?id=AnatomyLearning+LLC",
+            "app_mini_description": "AnatomyLearning 3D - Real-time 3D Atlas\nDissect and LEARN ANATOMY",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "SketchAR Create Art Draw Paint Colours",
+            "app_link": "/store/apps/dev?id=6650834186977515237",
+            "app_mini_description": "Become a creator using augmented reality and AI",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Quiver - 3D Coloring App",
+            "app_link": "/store/apps/dev?id=6378315861450040881",
+            "app_mini_description": "Print, color and see your drawing in beautifully hand-animated 3D worlds.",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Hologo",
+            "app_link": "/store/apps/developer?id=Hologo",
+            "app_mini_description": "The AR Library for Education",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "JFK Moonshot: An Augmented Reality Experience",
+            "app_link": "/store/apps/developer?id=John+F.+Kennedy+Library+Foundation",
+            "app_mini_description": "An epic AR recreation of the Apollo 11 mission and its connection to JFK.",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Solar System AR ( ARCore )",
+            "app_link": "/store/apps/dev?id=6811979368685561616",
+            "app_mini_description": "Travel in the Solar System with Augmented Reality!",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Atom Visualizer for ARCore",
+            "app_link": "/store/apps/developer?id=Signal+Garden+Research",
+            "app_mini_description": "Atom Visualizer is completely free with no ads, in-app purchases, or tracking!",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Mind Map AR, Augmented Reality ARCore Mind Mapping",
+            "app_link": "/store/apps/developer?id=ScapeHop",
+            "app_mini_description": "3D mind map to brainstorm, organize, study and memorize with ARcore mind mapping",
+            "category": "Augmented Reality"
+        },
+        {
+            "appTitle": "Car Scanner ELM OBD2",
+            "app_link": "/store/apps/developer?id=0vZ",
+            "app_mini_description": "Trip computer+car diagnostic tool with widest variety of features and dashboard!",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "PayByPhone",
+            "app_link": "/store/apps/developer?id=PayByPhone+Technologies+Inc",
+            "app_mini_description": "PayByPhone: the best way to pay for parking.",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "AutoScout24 - used car finder",
+            "app_link": "/store/apps/dev?id=6039364087858800745",
+            "app_mini_description": "Search for a new or used car wherever and whenever you like with your Android.",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "mobile.de \u2013 Germany\u2018s largest car market",
+            "app_link": "/store/apps/developer?id=mobile.de+GmbH",
+            "app_mini_description": "mobile.de - buy and sell used and new cars on your smartphone!",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "TMCARS",
+            "app_link": "/store/apps/dev?id=7413118761911154055",
+            "app_mini_description": "Awtoulaglar d\u00fcn\u00fd\u00e4si we be\u00fdleki bildiri\u015fler.",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "\u041d\u043e\u043c\u0435\u0440\u043e\u0433\u0440\u0430\u043c \u2013 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0430\u0432\u0442\u043e \u043f\u043e \u0432\u0438\u043d \u043a\u043e\u0434\u0443 \u0438 \u0433\u043e\u0441\u043d\u043e\u043c\u0435\u0440\u0443",
+            "app_link": "/store/apps/developer?id=%D0%94%D1%80%D0%BE%D0%BC",
+            "app_mini_description": "Checking a car by VIN code and state number on the basis of the traffic police bases for accidents, fines, mileage",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "\u0428\u0442\u0440\u0430\u0444\u044b \u0413\u0418\u0411\u0414\u0414 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435: \u0441 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0435\u0439, \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430",
+            "app_link": "/store/apps/dev?id=5061492312806757332",
+            "app_mini_description": "Official traffic fines with photos of violations. Check, pay fines online.",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "\u0411\u0438\u043b\u0435\u0442\u044b \u041f\u0414\u0414 2021 \u0438 \u042d\u043a\u0437\u0430\u043c\u0435\u043d \u041f\u0414\u0414 \u043e\u043d\u043b\u0430\u0439\u043d \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u041f\u0414\u0414",
+            "app_link": "/store/apps/developer?id=%D0%94%D1%80%D0%BE%D0%BC",
+            "app_mini_description": "Tickets for traffic rules 2021 from the traffic police of the Russian Federation Exam for traffic rules 2021 with changes Category ABM / CD",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "\u0414\u0440\u043e\u043c \u2013 \u0446\u0435\u043d\u044b \u043d\u0430 \u043c\u0430\u0448\u0438\u043d\u044b",
+            "app_link": "/store/apps/developer?id=%D0%94%D1%80%D0%BE%D0%BC",
+            "app_mini_description": "Over 600,000 current announcements throughout Russia\nChecking the car on the wine code",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "\u0420\u043e\u0441\u0428\u0442\u0440\u0430\u0444\u044b \u0428\u0442\u0440\u0430\u0444\u044b \u0413\u0418\u0411\u0414\u0414 \u0441 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0435\u0439 \u043e\u043f\u043b\u0430\u0442\u0430 \u043e\u043d\u043b\u0430\u0439\u043d",
+            "app_link": "/store/apps/developer?id=%D0%A0%D0%BE%D1%81%D1%88%D1%82%D1%80%D0%B0%D1%84%D1%8B+-+%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0+%D1%88%D1%82%D1%80%D0%B0%D1%84%D0%BE%D0%B2+%D0%93%D0%98%D0%91%D0%94%D0%94",
+            "app_mini_description": "Quick search and payment of official fines of the STSI as well as transport tax.",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "Avtoelon.uz",
+            "app_link": "/store/apps/dev?id=7553203431671282485",
+            "app_mini_description": "Convenient mobile application for buying and selling cars in Uzbekistan",
+            "category": "Auto & Vehicles"
+        },
+        {
+            "appTitle": "IPSY: Makeup, Beauty, and Tips",
+            "app_link": "/store/apps/developer?id=ipsy",
+            "app_mini_description": "Discover the best in beauty + insider tips with our monthly makeup subscriptions",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "Beauty Makeup Editor: Beauty Camera, Photo Editor",
+            "app_link": "/store/apps/dev?id=8117239212302166287",
+            "app_mini_description": "Beauty Makeup Face Editor & Sweet Selfie Camera Filters & Face Tune App, Retouch",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "Ulta Beauty: Shop Makeup, Skin, Hair & Perfume",
+            "app_link": "/store/apps/developer?id=ULTA",
+            "app_mini_description": "Top brand haircare & fragrance",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "Perfect365: One-Tap Makeover",
+            "app_link": "/store/apps/developer?id=Perfect365,+Inc.",
+            "app_mini_description": "Custom makeup designs, tutorials and beauty tips.",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "My Capillary Schedule",
+            "app_link": "/store/apps/developer?id=Code+Art+BR",
+            "app_mini_description": "My Capillary Schedule creates a hair schedule made just for you.",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "Booksy - book local beauty appointments 24/7",
+            "app_link": "/store/apps/developer?id=Booksy+International",
+            "app_mini_description": "Looking for beauty & wellness services near you? Book 24/7 on Booksy",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "GangnamUnni - Cosmetic Surgery & Reviews",
+            "app_link": "/store/apps/dev?id=8114150077819113401",
+            "app_mini_description": "All about Korean Cosmetic Surgery\n- Browse reviews, photos and book clinic visit",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "\u30d8\u30a2&\u30d3\u30e5\u30fc\u30c6\u30a3\u30fc\u30b5\u30ed\u30f3\u691c\u7d22/\u30db\u30c3\u30c8\u30da\u30c3\u30d1\u30fc\u30d3\u30e5\u30fc\u30c6\u30a3\u30fc",
+            "app_link": "/store/apps/dev?id=7318129576372072658",
+            "app_mini_description": "Android app of \"Hot Pepper Beauty\", the largest hair salon reservation site in Japan! Browse hair catalogs, find a salon, and make a reservation.",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "\uce74\uce74\uc624\ud5e4\uc5b4\uc0f5 KakaoHairshop",
+            "app_link": "/store/apps/developer?id=Kakao+Corporation",
+            "app_mini_description": "Booking is easier, style is richer!\nFrom hair salon to nail shop reservation!",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "Hwahae - analyzing cosmetics",
+            "app_link": "/store/apps/developer?id=BirdView",
+            "app_mini_description": "For people who want to check the ingredients of cosmetics.\nJoin 'Hwahae' now!",
+            "category": "Beauty"
+        },
+        {
+            "appTitle": "Google Play Books - Ebooks, Audiobooks, and Comics",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "All the books you love. On the page or out loud. Anywhere you are.",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "Wattpad - Read & Write Stories",
+            "app_link": "/store/apps/dev?id=5726714232238156247",
+            "app_mini_description": "Wattpad - A Story Reading App, Read Stories, Novels, Ebooks and Write Stories",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "Amazon Kindle",
+            "app_link": "/store/apps/developer?id=Amazon+Mobile+LLC",
+            "app_mini_description": "Your library in your pocket. Anytime, anywhere.",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "ReadEra - book reader pdf, epub, word",
+            "app_link": "/store/apps/dev?id=7884016305306450409",
+            "app_mini_description": "Read books PDF, EPUB, WORD, KINDLE, MOBI! Best book reader ever of reading apps.",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "Libby, by OverDrive",
+            "app_link": "/store/apps/developer?id=OverDrive,+Inc.",
+            "app_mini_description": "Discover ebooks, audiobooks, and magazines from your local library.",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "\ub124\uc774\ubc84 - NAVER",
+            "app_link": "/store/apps/dev?id=6225315284672069550",
+            "app_mini_description": "Enjoy Naver App's special search features and various services.\nSmartphones",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "English Bangla Dictionary",
+            "app_link": "/store/apps/dev?id=7187267501842655507",
+            "app_mini_description": "Both English to Bangla and Bangla to English Dictionary",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "Free Stories, Audio stories and Books - Pratilipi",
+            "app_link": "/store/apps/developer?id=Pratilipi",
+            "app_mini_description": "Read over 25,00,000 stories, e-books, poems, and novels for free",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "Audible: audiobooks, podcasts & audio stories",
+            "app_link": "/store/apps/developer?id=Audible,+Inc",
+            "app_mini_description": "Listen your way. Hear the best audio storytelling from audio books to podcasts",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "Dreame",
+            "app_link": "/store/apps/developer?id=Dreame+Media",
+            "app_mini_description": "Read Best Romance",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "Innovel",
+            "app_link": "/store/apps/developer?id=Dreame+Media",
+            "app_mini_description": "Novel Romance In Sakumu",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "SERIES",
+            "app_link": "/store/apps/developer?id=NAVER+WEBTOON",
+            "app_mini_description": "\ub124\uc774\ubc84 \uc2dc\ub9ac\uc988\uc5d0\uc11c \uc778\uc0dd\uc791\uc744 \ub9cc\ub098\ub2e4",
+            "category": "Books and Reference"
+        },
+        {
+            "appTitle": "LinkedIn: Jobs, Business News & Social Networking",
+            "app_link": "/store/apps/dev?id=6860682062931868151",
+            "app_mini_description": "Find your new career for the New Year. Job search on the most trusted network.",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Microsoft Teams",
+            "app_link": "/store/apps/dev?id=6720847872553662727",
+            "app_mini_description": "Microsoft Teams is your hub for teamwork in Office 365.",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Scanner App To PDF - TapScanner",
+            "app_link": "/store/apps/dev?id=7922759924555516929",
+            "app_mini_description": "Scan, Print & Share any document to PDF with your mobile device!",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Cisco Webex Meetings",
+            "app_link": "/store/apps/developer?id=Cisco+Systems,+Inc.",
+            "app_mini_description": "Tap into a Webex meeting, wherever you are, with Webex Meetings for Android!",
+            "category": "Business"
+        },
+        {
+            "appTitle": "AnyDesk Remote Control",
+            "app_link": "/store/apps/developer?id=AnyDesk+Software+GmbH",
+            "app_mini_description": "AnyDesk remote computer control",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Slack",
+            "app_link": "/store/apps/developer?id=Slack+Technologies+Inc.",
+            "app_mini_description": "All your team communication in one place",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Intune Company Portal",
+            "app_link": "/store/apps/dev?id=6720847872553662727",
+            "app_mini_description": "Install company apps & remotely manage your devices enrolled to Microsoft Intune",
+            "category": "Business"
+        },
+        {
+            "appTitle": "GoToMeeting \u2013 Video Conferencing & Online Meetings",
+            "app_link": "/store/apps/developer?id=LogMeIn,+Inc.",
+            "app_mini_description": "Online Meetings Made Easy!",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Workday",
+            "app_link": "/store/apps/developer?id=Workday,+Inc.",
+            "app_mini_description": "The Workday app provides mobile access to Workday's enterprise cloud application",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Meesho - Resell, Work From Home, Earn Money Online",
+            "app_link": "/store/apps/developer?id=Meesho:+Earn+Money+Online,+Work+from+Home+Business",
+            "app_mini_description": "Work from Home Online Job App. Best Earn Money App for Android. #1 Reselling App",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Google Meet - Secure Video Meetings",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Connect and collaborate easily with Google Meet",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Jazz World - Manage Your Jazz Account",
+            "app_link": "/store/apps/developer?id=Jazz+Pakistan",
+            "app_mini_description": "Manage your Jazz/Warid account on your smartphone.",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Microsoft Authenticator",
+            "app_link": "/store/apps/dev?id=6720847872553662727",
+            "app_mini_description": "No more passwords, easier sign-in, and greater protection for your accounts.",
+            "category": "Business"
+        },
+        {
+            "appTitle": "Skype for Business for Android",
+            "app_link": "/store/apps/dev?id=6720847872553662727",
+            "app_mini_description": "Skype for Business extends the power of Lync and Skype to your mobile device",
+            "category": "Business"
+        },
+        {
+            "appTitle": "e-Devlet Kap\u0131s\u0131",
+            "app_link": "/store/apps/developer?id=T.C.+Cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1+Dijital+D%C3%B6n%C3%BC%C5%9F%C3%BCm+Ofisi",
+            "app_mini_description": "you can use your Android devices are no longer in service www.turkiye.gov.tr",
+            "category": "Business"
+        },
+        {
+            "appTitle": "WEBTOON",
+            "app_link": "/store/apps/developer?id=WEBTOON+ENTERTAINMENT",
+            "app_mini_description": "Stories to Obsess Over",
+            "category": "Comics"
+        },
+        {
+            "appTitle": "MangaToon-Good comics, Great stories",
+            "app_link": "/store/apps/developer?id=MangaToon",
+            "app_mini_description": "Global App for Reading Comic Manga and Novel",
+            "category": "Comics"
+        },
+        {
+            "appTitle": "WebComics",
+            "app_link": "/store/apps/dev?id=6238109878222108234",
+            "app_mini_description": "Tons of full-color HD comics, exclusive comics of all genres.",
+            "category": "Comics"
+        },
+        {
+            "appTitle": "Free Comics - Pratilipi Comics",
+            "app_link": "/store/apps/developer?id=Pratilipi",
+            "app_mini_description": "Read thousands of comics, graphic novels and webtoons for free",
+            "category": "Comics"
+        },
+        {
+            "appTitle": "\ub124\uc774\ubc84 \uc6f9\ud230 - Naver Webtoon",
+            "app_link": "/store/apps/developer?id=NAVER+WEBTOON",
+            "app_mini_description": "\ub9e4\uc77c \ub9e4\uc77c \uc0c8\ub85c\uc6b4 \ub124\uc774\ubc84 \uc6f9\ud230",
+            "category": "Comics"
+        },
+        {
+            "appTitle": "Messenger \u2013 Text and Video Chat for Free",
+            "app_link": "/store/apps/developer?id=Facebook",
+            "app_mini_description": "Free group video chat, video calls, voice calls and text messaging.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "Telegram",
+            "app_link": "/store/apps/developer?id=Telegram+FZ-LLC",
+            "app_mini_description": "Telegram is a messaging app with a focus on speed and security.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "TextNow: Free Texting & Calling App",
+            "app_link": "/store/apps/dev?id=8273134989898180729",
+            "app_mini_description": "Unlimited calling & texting with a free local phone number!",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "Skype - free IM & video calls",
+            "app_link": "/store/apps/developer?id=Skype",
+            "app_mini_description": "Talk to friends and family using voice, video, SMS or instant messages.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "Discord - Talk, Video Chat & Hang Out with Friends",
+            "app_link": "/store/apps/developer?id=Discord+Inc.",
+            "app_mini_description": "Your place to talk, video chat, and hang out with friends and communities.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "Viber Messenger - Free Video Calls & Group Chats",
+            "app_link": "/store/apps/dev?id=7446565317689230946",
+            "app_mini_description": "Enjoy the video, calling & texting messenger. Free messaging around the world!",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "Messenger Lite: Free Calls & Messages",
+            "app_link": "/store/apps/developer?id=Facebook",
+            "app_mini_description": "A faster version of Messenger that works in all network conditions",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "LINE: Free Calls & Messages",
+            "app_link": "/store/apps/dev?id=4919265583026901892",
+            "app_mini_description": "Stay in touch with your friends and family using LINE!",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "Zalo - Video Call",
+            "app_link": "/store/apps/developer?id=Zalo+Group",
+            "app_mini_description": "Zalo is the new market-leading messaging app with amazing features.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "WhatsApp Messenger",
+            "app_link": "/store/apps/developer?id=WhatsApp+LLC",
+            "app_mini_description": "Simple. Personal. Secure.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "My Beeline",
+            "app_link": "/store/apps/dev?id=7529103316261549349",
+            "app_mini_description": "\"My Beeline\" app is fully functional self-service office in your phone.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "Psiphon Pro - The Internet Freedom VPN",
+            "app_link": "/store/apps/developer?id=Psiphon+Inc.",
+            "app_mini_description": "Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "WhatsApp Business",
+            "app_link": "/store/apps/developer?id=WhatsApp+LLC",
+            "app_mini_description": "Simple tool for businesses to talk to their customers.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "Truecaller: Caller ID & spam blocking",
+            "app_link": "/store/apps/dev?id=5383913004303935162",
+            "app_mini_description": "Detect fraud, block calls & telemarketers. Identify unknown calls",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "KakaoTalk: Free Calls & Text",
+            "app_link": "/store/apps/developer?id=Kakao+Corporation",
+            "app_mini_description": "KakaoTalk - the free, fast and fun messenger!",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "BiP \u2013 Messaging, Voice and Video Calling",
+            "app_link": "/store/apps/developer?id=BiP+A.S.",
+            "app_mini_description": "BiP is a communication client with entertaining content, voice and video calls.",
+            "category": "Communication"
+        },
+        {
+            "appTitle": "Hinge - Dating & Relationships",
+            "app_link": "/store/apps/developer?id=Hinge",
+            "app_mini_description": "Designed to be Deleted",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "uDates local dating app: meet local singles & date",
+            "app_link": "/store/apps/developer?id=SIA+%22BATTIKA%22",
+            "app_mini_description": "Meet new people in your area: match, chat online and have a romantic date!",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "BLK - Meet Black singles nearby!",
+            "app_link": "/store/apps/dev?id=5225351988857066521",
+            "app_mini_description": "A fun, easy-to use dating app for Black men and Black women.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "iFlirts \u2013 Flirt, Dating & Chatting for Singles",
+            "app_link": "/store/apps/developer?id=Appspartner+B.V.",
+            "app_mini_description": "Chat with attractive singles, fall in love \ud83d\udc95 and date",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Ashley Madison",
+            "app_link": "/store/apps/developer?id=Ruby+Life+Inc.",
+            "app_mini_description": "Experience passion and find your moment with Ashley Madison\u2019s online dating app.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Hily Dating App: Meet New People & Enjoy streaming",
+            "app_link": "/store/apps/dev?id=8466050068348543977",
+            "app_mini_description": "Connect with people nearby or worldwide. Make friends, date online and have fun!",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Chispa - Dating for Latinos",
+            "app_link": "/store/apps/dev?id=8671028793976441754",
+            "app_mini_description": "A fun, easy-to-use dating app for Latinos and Latinas.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "OkCupid - The Online Dating App for Great Dates",
+            "app_link": "/store/apps/dev?id=5985505151266094438",
+            "app_mini_description": "Find your person on OkCupid! Meet singles virtually for local and online dating.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "SeekingArrangement",
+            "app_link": "/store/apps/developer?id=W8+Tech+Limited",
+            "app_mini_description": "The #1 dating app for millionaires, successful, beautiful and attractive people",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Clover Dating App",
+            "app_link": "/store/apps/developer?id=Clover+Inc.",
+            "app_mini_description": "From friends to dates, meeting new people on Clover is easy, fun, and instant.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Coffee Meets Bagel Free Dating App",
+            "app_link": "/store/apps/dev?id=7286006040182189336",
+            "app_mini_description": "Meet the original anti-swiping app (that\u2019s us \ud83d\udc4b)",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Upward: Christian Dating",
+            "app_link": "/store/apps/developer?id=Affinity+Apps,+LLC",
+            "app_mini_description": "#1 downloaded Christian dating app in 2020 in the U.S. (Formerly known as FTH)",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Dil Mil: South Asian singles, dating & marriage",
+            "app_link": "/store/apps/dev?id=4659392411820958099",
+            "app_mini_description": "Leading South Asian singles dating & marriage app",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Feeld: Dating & Online Chat For Couples & Singles",
+            "app_link": "/store/apps/developer?id=Feeld+Ltd.",
+            "app_mini_description": "Chat & connect on alternative dating platform for bisexual women and couples.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "PURE Hookup \ud83c\udf36 anonymous chat \ud83d\udc8b dating, flirt 18+",
+            "app_link": "/store/apps/developer?id=Misterico+Limited",
+            "app_mini_description": "One night casual hook up dating \ud83d\udd25 date nearby and meet new people in local chat",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "AsianDate: find Asian singles",
+            "app_link": "/store/apps/developer?id=Asteri+Solutions+Limited",
+            "app_mini_description": "Chat with single women and men & find love. Install FREE!",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Dating, Meet Curvy Singles. Match & Date @ WooPlus",
+            "app_link": "/store/apps/developer?id=WooPlus+Dating+for+Curvy+People",
+            "app_mini_description": "Free join WooPlus dating app to match with our 5M+ singles. Chat & Meet Online",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Herpes Dating: 1.9M+ STD Positive Singles",
+            "app_link": "/store/apps/developer?id=PositiveSingles.com+since+2001",
+            "app_mini_description": "#1 Online STD dating site to meet & date people living with Herpes, HPV & HIV",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Mutual - LDS Dating",
+            "app_link": "/store/apps/developer?id=Mutual+LLC",
+            "app_mini_description": "Mutual is the world's most popular LDS Dating App",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Rondevo - Global Online Dating",
+            "app_link": "/store/apps/developer?id=VHAPPS",
+            "app_mini_description": "Social Discovery Platform - Join Now and Talk to Someone Special Today!",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "The League",
+            "app_link": "/store/apps/developer?id=The+League+App,+Inc",
+            "app_mini_description": "Meet & Date Ambitious People",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Dating.com\u2122: meet new people online - chat & date",
+            "app_link": "/store/apps/developer?id=DMM+SOLUTIONS+INC.",
+            "app_mini_description": "Enjoy dating with perfect match, instant chat and live streaming!",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "XOXO (aka Cherish) Local Dating - Meet New People",
+            "app_link": "/store/apps/developer?id=DMM+SOLUTIONS+INC.",
+            "app_mini_description": "Match, chat online, stream live, meet local singles and date people near you!",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "3Fun - Threesome Dating for Couples & Singles",
+            "app_link": "/store/apps/developer?id=Threesome+%26+Swingers+Hookup+Dating+App",
+            "app_mini_description": "Meet Open-minded Couples & Singles for Gay, Lesbian, Bisexual & Swingers",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Ace Dating - video chat live",
+            "app_link": "/store/apps/developer?id=ACESOFT+LIMITED",
+            "app_mini_description": "Ace Date app - the Easiest way to Say 'Hi' and Meet New Friends in Live & Life",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Juicy - Flirt & Love",
+            "app_link": "/store/apps/developer?id=LOVED",
+            "app_mini_description": "Date attractive singles around you \u2764\ufe0f",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "muzmatch: Muslim & Arab Singles, Marriage & Dating",
+            "app_link": "/store/apps/developer?id=muzmatch",
+            "app_mini_description": "Where Single Muslims Meet",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "EliteSingles: Dating App for singles over 30",
+            "app_link": "/store/apps/dev?id=4813727084772339873",
+            "app_mini_description": "Date? Partner? Quality matching, whatever you are looking for.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "SDM: Dating App for Seeking Pure Local Arrangement",
+            "app_link": "/store/apps/developer?id=SDM+Upscale+Dating+App",
+            "app_mini_description": "Mature dating for rich, successful and beautiful singles to date, chat & meetup",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "AmoLatina: Chat , Meet and Date Latin Singles",
+            "app_link": "/store/apps/developer?id=DMM+SOLUTIONS+INC.",
+            "app_mini_description": "Latin Dating for single women & men - match & chat. Find singles & chat!",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Laverly - Discover, Chat, Date",
+            "app_link": "/store/apps/developer?id=DERRIBAR+VENTURES+LTD",
+            "app_mini_description": "Discover international singles, chat and flirt online, love without borders.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Zoosk - Online Dating App to Meet New People",
+            "app_link": "/store/apps/developer?id=Zoosk+Inc.",
+            "app_mini_description": "Best Online Dating App \u2764 Match, chat & send virtual gifts to singles near you",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Dating & Chat App For Couples & Singles - BiCupid",
+            "app_link": "/store/apps/developer?id=Bisexual+Dating+App",
+            "app_mini_description": "Meet & Date Hookup with Curious for Bi, Trans, Threesome, Swinger, Gay & Lesbian",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "SilverSingles: Dating Over 50 Made Easy",
+            "app_link": "/store/apps/dev?id=4813727084772339873",
+            "app_mini_description": "Install the SilverSingles dating app & join millions of singles over 50 today!",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Millionaire Match: Meet And Date The Rich Elite",
+            "app_link": "/store/apps/developer?id=MillionaireMatch+Inc",
+            "app_mini_description": "The Largest Millionaire Dating App For Seeking The Beautiful, Elite, Rich League",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Joyride \u2013 Dating Playground & Passionate Singles",
+            "app_link": "/store/apps/dev?id=6485779010633223428",
+            "app_mini_description": "Discover Singles, Playfully \u2764\ufe0f Flirt and Chat in a Fun Way with 50M Singles",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Threesome Dating App for Couples & Swingers: 3rder",
+            "app_link": "/store/apps/developer?id=Hookup+%26+Dating+App",
+            "app_mini_description": "Meetup for threesomes, couple dating, throuple hookup, 3fun and feeld lifestyle.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Kippo - The Dating App for Gamers",
+            "app_link": "/store/apps/developer?id=Covalent+Inc.",
+            "app_mini_description": "Kippo is the dating and social app for gamers. Meet new people everywhere.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "EME Hive - Meet, Chat, Go Live",
+            "app_link": "/store/apps/developer?id=East+Meet+East",
+            "app_mini_description": "EastMeetEast, Dating, Seek, Meet, Video, Chat, Friends",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Anonymous Chat Rooms, Dating App",
+            "app_link": "/store/apps/developer?id=Anti+Corporation",
+            "app_mini_description": "#1 anonymous chat rooms to meet new people, make friends, and share pics & video",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "FWB Hookup Dating App to Hook up NSA Finders: Xwoo",
+            "app_link": "/store/apps/developer?id=BestMatch+Limited",
+            "app_mini_description": "Best pure friend flirt dating site, meet up local adult singles seeking date fun",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Dating for serious relationships - Evermatch",
+            "app_link": "/store/apps/developer?id=Evermatch",
+            "app_mini_description": "An app for serious relationships, getting married, and settling down.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Catch, FWB Hookup Dating App",
+            "app_link": "/store/apps/developer?id=Catch+Personals+Limited",
+            "app_mini_description": "Local NSA Finder and Casual Hook Up Dating, Seeking Pure Friends with Benefits",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Meetville - Meet New People Online. Dating App",
+            "app_link": "/store/apps/dev?id=5431035605487416523",
+            "app_mini_description": "Don't wait forever to meet someone. Start chatting NOW and go on a date!",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "DOWN Hookup App! Meet Hot 18+ Adult: Dating & Chat",
+            "app_link": "/store/apps/developer?id=DOWN+Dating+%26+Hookups:+Private+Adult+Match+%2B+Chat",
+            "app_mini_description": "#1 Anonymous HOOKUP APP FOR SEXY SINGLES \ud83c\udf36 7 million ppl swiping for casual fun",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "LatinAmericanCupid - Latin Dating App",
+            "app_link": "/store/apps/dev?id=6837645930350091615",
+            "app_mini_description": "Largest Latin dating app with over 5 million members",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Cougar Dating App: Seeking Sugar Momma Older Women",
+            "app_link": "/store/apps/developer?id=olderwomendating.com+since+2004",
+            "app_mini_description": "Cougar Life: Date Hook Up Mature Mummy, Meet Silver Singles, Adult Milf Finder",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "FilipinoCupid - Filipino Dating App",
+            "app_link": "/store/apps/dev?id=6837645930350091615",
+            "app_mini_description": "Largest Filipino dating app with over 5.5 million members",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Curvy Singles Dating",
+            "app_link": "/store/apps/developer?id=Evermatch",
+            "app_mini_description": "Join an Inclusive Community. Meet, Chat and Find your Love.",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "KinkD: Fetish, BDSM Dating & Kinky Fet Lifestyle",
+            "app_link": "/store/apps/developer?id=Kink+Dating+App",
+            "app_mini_description": "#1 kink social networking & dating community for kinksters to chat and hookup",
+            "category": "Dating"
+        },
+        {
+            "appTitle": "Expeditions",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "See anything, go anywhere",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Horizons",
+            "app_link": "/store/apps/developer?id=Horizons+Music",
+            "app_mini_description": "Horizons is a series of interactive music journeys for Daydream.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "The Turning Forest",
+            "app_link": "/store/apps/developer?id=Media+Applications+Technologies+for+the+BBC",
+            "app_mini_description": "A fairytale for your ears and eyes set in a magical forest. Wear headphones.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "vTime XR - The AR & VR Social Network",
+            "app_link": "/store/apps/dev?id=8045558678393484418",
+            "app_mini_description": "The first cross-reality (XR) social network for Daydream View",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Epic Roller Coasters",
+            "app_link": "/store/apps/dev?id=6846696547364936282",
+            "app_mini_description": "The feeling of a real roller coaster with great graphics and physics simulation.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "The Guardian VR",
+            "app_link": "/store/apps/developer?id=Guardian+News+%26+Media+Ltd",
+            "app_mini_description": "Award-winning journalism in virtual reality",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Hello Mars",
+            "app_link": "/store/apps/developer?id=UCCVR+Experience+Lab",
+            "app_mini_description": "For all space lovers, set your foot on Mars in Daydream VR today!",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Sites in VR",
+            "app_link": "/store/apps/developer?id=Ercan+Gigi",
+            "app_mini_description": "Virtual tours of landmarks with 360\u00b0 panoramic images (1600+).",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "The People's House",
+            "app_link": "/store/apps/developer?id=Felix+and+Paul+Studios",
+            "app_mini_description": "A historic visit to President Obama and First Lady Michelle Obama\u2019s White House.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Google Photos",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "The home for your memories. Relive, share, and organize your photos.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Fulldive VR - Virtual Reality",
+            "app_link": "/store/apps/developer?id=Browser+by+Fulldive+Co.",
+            "app_mini_description": "Browse Virtual Reality (VR) & Earn Cash Crypto Rewards: Bitcoin Cash & Ethereum!",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Gala360 - See the world in VR!",
+            "app_link": "/store/apps/developer?id=STW+Software",
+            "app_mini_description": "Gala 360 takes you to awesome adventures around the world via 360 photos/stories",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "VRTV VR Video Player",
+            "app_link": "/store/apps/developer?id=Chai+Software",
+            "app_mini_description": "VRTV is the best VR Video Player with full format support and a great UI!",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Google Spotlight Stories",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Immerse yourself in a world of storytelling made for mobile.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Google Street View",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Browse the latest from Google, explore content from others, and create your own",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Gala360 - See the World in VR",
+            "app_link": "/store/apps/developer?id=STW+Software",
+            "app_mini_description": "Gala 360 takes you to awesome adventures around the world via 360 photos/stories",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Google Arts & Culture VR",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Experience masterpieces, up close",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "DeoVR Video Player (DD)",
+            "app_link": "/store/apps/developer?id=VRFavs.com",
+            "app_mini_description": "DeoVR is the best-in-class VR video player. Streaming from popular video sites",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Ocean Rift",
+            "app_link": "/store/apps/developer?id=Picselica",
+            "app_mini_description": "The VR aquatic safari park",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Hulu: Stream new TV shows, movies & series",
+            "app_link": "/store/apps/developer?id=Hulu",
+            "app_mini_description": "Watch your favorite films, binge episodes & discover fantastic Hulu originals",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Within VR - Cinematic Virtual Reality",
+            "app_link": "/store/apps/dev?id=6448767934614611181",
+            "app_mini_description": "A \u2764\ufe0f letter to the emerging art form of Cinematic VR.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Realmersive",
+            "app_link": "/store/apps/developer?id=BEMERSIVE",
+            "app_mini_description": "Realmersive is a VR/AR platform to broadcast immersive contents & interactivity.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "theViewer",
+            "app_link": "/store/apps/dev?id=9051148467838867440",
+            "app_mini_description": "Easiest way to create and share VR Tours  from your 360s",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "VRAVO!",
+            "app_link": "/store/apps/dev?id=4866243252042612314",
+            "app_mini_description": "VRAVO! the Virtual Tele-Presentations Platform for Business and Education.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Boulevard",
+            "app_link": "/store/apps/developer?id=Boulevard+Arts,+Inc",
+            "app_mini_description": "BLVRD brings art, architecture, and culture to people around the world.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Mobile VR Station",
+            "app_link": "/store/apps/developer?id=Michael+G+Fuller+Jr",
+            "app_mini_description": "A virtual reality media player developed by Michael & Yueqin Fuller.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Breathe Peace World",
+            "app_link": "/store/apps/developer?id=GOH+Studio",
+            "app_mini_description": "Breathe Peace in a Virtual Reality storybook world.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "BBC Earth: Life in VR",
+            "app_link": "/store/apps/developer?id=BBC+Studios+Limited",
+            "app_mini_description": "Discover the Californian Coast and an underwater world bursting with life.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "International Space Station Tour VR",
+            "app_link": "/store/apps/developer?id=The+House+of+Fables",
+            "app_mini_description": "International Space Station Tour VR takes you on a 360\u00ba adventure in space!",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Womb VR",
+            "app_link": "/store/apps/dev?id=5889756495815669616",
+            "app_mini_description": "Relax cocooned in the warmth and safety of a virtual reality womb.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Vendetta Online HD - Space MMO",
+            "app_link": "/store/apps/developer?id=Guild+Software,+Inc.",
+            "app_mini_description": "Vendetta Online is a graphically intensive 3D MMORPG set in space.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "VR Theme Park Rides",
+            "app_link": "/store/apps/developer?id=ENSENA+SOFT+SA+DE+CV",
+            "app_mini_description": "VR Theme Park Rides is a fun collection of twelve exciting VR-experiences.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Art Plunge Preview",
+            "app_link": "/store/apps/developer?id=Space+Plunge",
+            "app_mini_description": "Get the feeling of being inside a classic painting with virtual reality!",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Cyber Paint",
+            "app_link": "/store/apps/developer?id=Sterling+Crispin",
+            "app_mini_description": "Paint and draw in virtual reality using data as your material.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "VR Painter",
+            "app_link": "/store/apps/dev?id=6722520191413703609",
+            "app_mini_description": "VR Painter to Paint All Space in Virtual Reality.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Experiencing Haenyeo",
+            "app_link": "/store/apps/developer?id=Chosunilbo",
+            "app_mini_description": "The mysterious island of Jeju is home to the haenyeo who resembles the sea.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Foodie 360 visits Taiwan",
+            "app_link": "/store/apps/developer?id=Lofty+Sky+Entertainment+Inc.",
+            "app_mini_description": "Explore Chinese Cuisines\nIs Chinese food Chinese cuisine?",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "The Blood Eclipse VR",
+            "app_link": "/store/apps/developer?id=Only+Human+Studios",
+            "app_mini_description": "Try to survive in this humans vs zombies multiplayer game!",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Slidely VR Gallery",
+            "app_link": "/store/apps/developer?id=Promo.com+Apps",
+            "app_mini_description": "Meet Slidely VR Gallery",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "The Kremer Collection VR Museum",
+            "app_link": "/store/apps/developer?id=Moyosa+Media+BV",
+            "app_mini_description": "The Kremer Museum is an innovative new vr museum.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "PanoMoments",
+            "app_link": "/store/apps/developer?id=Moment+Capture,+Inc.",
+            "app_mini_description": "Discover and create living photos with PanoMoments",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Dom Viridi VR",
+            "app_link": "/store/apps/developer?id=Von+Betelgeuse",
+            "app_mini_description": "An exhibition of paintings from the Dom Viridi collective.",
+            "category": "Daydream"
+        },
+        {
+            "appTitle": "Google Classroom",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Connect with your classes and do assignments on the go.",
+            "category": "Education"
+        },
+        {
+            "appTitle": "Quizizz: Play to learn",
+            "app_link": "/store/apps/developer?id=Quizizz+Inc.",
+            "app_mini_description": "Quizzes that engage everyone",
+            "category": "Education"
+        },
+        {
+            "appTitle": "Yeolpumta - Passion and Time",
+            "app_link": "/store/apps/developer?id=Pallo+Inc",
+            "app_mini_description": "See your competitors and get motivated, see your friends and get empowered!",
+            "category": "Education"
+        },
+        {
+            "appTitle": "Brainly \u2013 The Homework App",
+            "app_link": "/store/apps/dev?id=8838836793258515669",
+            "app_mini_description": "Homework App & Homework Answers",
+            "category": "Education"
+        },
+        {
+            "appTitle": "Kahoot! Play & Create Quizzes",
+            "app_link": "/store/apps/dev?id=5643238107618943124",
+            "app_mini_description": "Create and play learning games at school, at home or at work!",
+            "category": "Education"
+        },
+        {
+            "appTitle": "ANTON - All-in-one Homeschool - Montessori Games",
+            "app_link": "/store/apps/dev?id=9095338474328132706",
+            "app_mini_description": "Learn Math, Reading with Phonics and Sight words, Science, English and German",
+            "category": "Education"
+        },
+        {
+            "appTitle": "PlantNet Plant Identification",
+            "app_link": "/store/apps/developer?id=plantnet-project.org",
+            "app_mini_description": "Observation and help for the identification of wild plants",
+            "category": "Education"
+        },
+        {
+            "appTitle": "ABCmouse.com",
+            "app_link": "/store/apps/developer?id=Age+of+Learning,+Inc.",
+            "app_mini_description": "ABCmouse offers a full online learning program for kids 2\u20148.",
+            "category": "Education"
+        },
+        {
+            "appTitle": "U-Dictionary: Oxford Dictionary Free Now Translate",
+            "app_link": "/store/apps/developer?id=Talent+Education+Inc",
+            "app_mini_description": "Free Oxford dictionaries & powerful multiple-language translator",
+            "category": "Education"
+        },
+        {
+            "appTitle": "ClassDojo",
+            "app_link": "/store/apps/developer?id=ClassDojo",
+            "app_mini_description": "ClassDojo is a beautiful communication app for teachers, parents, and students.",
+            "category": "Education"
+        },
+        {
+            "appTitle": "Edmodo",
+            "app_link": "/store/apps/developer?id=Edmodo,+Inc",
+            "app_mini_description": "Classroom & School Messaging Tools",
+            "category": "Education"
+        },
+        {
+            "appTitle": "Pydroid 3 - IDE for Python 3",
+            "app_link": "/store/apps/developer?id=IIEC",
+            "app_mini_description": "Learn Python 3 with the most powerful Python 3 interpreter & IDE on Google Play",
+            "category": "Education"
+        },
+        {
+            "appTitle": "Moodle",
+            "app_link": "/store/apps/developer?id=Moodle+Pty+Ltd.",
+            "app_mini_description": "Access your online courses with the official Moodle mobile app",
+            "category": "Education"
+        },
+        {
+            "appTitle": "Tubi - Free Movies & TV Shows",
+            "app_link": "/store/apps/dev?id=9005207387328486775",
+            "app_mini_description": "Stream Movies & TV Shows in Holiday, Anime, Horror, Reality & More!",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "Google Play Games",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Play games instantly, save progress, and earn achievements.",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "YouTube Kids",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Encourage kids to discover the world with a suite of parental controls",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "Netflix",
+            "app_link": "/store/apps/developer?id=Netflix,+Inc.",
+            "app_mini_description": "Netflix is the leading subscription service for watching TV episodes and movies.",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "Reface: Face swap videos and memes with your photo",
+            "app_link": "/store/apps/developer?id=NEOCORTEXT,+INC.",
+            "app_mini_description": "ex-Doublicat app: Swap your face with celebrities, and make memes!",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "Xbox",
+            "app_link": "/store/apps/dev?id=6720847872553662727",
+            "app_mini_description": "The Xbox app keeps you connected to the fun with your friends, games, & console.",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "Amazon Prime Video",
+            "app_link": "/store/apps/developer?id=Amazon+Mobile+LLC",
+            "app_mini_description": "Watch TV shows and movies including award-winning Amazon exclusives.",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "Viu - Korean Dramas, Variety Shows, Originals",
+            "app_link": "/store/apps/developer?id=Vuclip+Mobile+Video",
+            "app_mini_description": "Download/Stream the best Asian TV Shows & Movies in HD /w Subs. Try it Free now!",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "4shared",
+            "app_link": "/store/apps/developer?id=New+IT+Solutions",
+            "app_mini_description": "Meet our NEW version! Better and faster!",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "Hulu: Stream new TV shows, movies & series",
+            "app_link": "/store/apps/developer?id=Hulu",
+            "app_mini_description": "Watch your favorite films, binge episodes & discover fantastic Hulu originals",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "Twitch: Livestream Multiplayer Games & Esports",
+            "app_link": "/store/apps/developer?id=Twitch+Interactive,+Inc.",
+            "app_mini_description": "Multiplayer Gaming, Live Esports & Gamer Chat: Watch Fortnite, Minecraft & PUBG",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "HBO Max: Stream and Watch TV, Movies, and More",
+            "app_link": "/store/apps/developer?id=WarnerMedia+Direct,+LLC",
+            "app_mini_description": "Stream all of HBO with new hit shows, classic favorites and Max Originals!",
+            "category": "Entertainment"
+        },
+        {
+            "appTitle": "Invitation maker & Card design by Greetings Island",
+            "app_link": "/store/apps/developer?id=Greetings+Island",
+            "app_mini_description": "2\ufe0f\u20e30\ufe0f\u20e32\ufe0f\u20e31\ufe0f\u20e3 Cards \ud83d\udc8c Birthday invitation maker \ud83d\udc8c Wedding Invites \ud83d\udc70Install now",
+            "category": "Events"
+        },
+        {
+            "appTitle": "Invitation Maker Free - Birthday & Wedding Card",
+            "app_link": "/store/apps/dev?id=6096060713339252212",
+            "app_mini_description": "card maker with photo 2\ufe0f\u20e30\ufe0f\u20e32\ufe0f\u20e31\ufe0f\u20e3wedding invitation,baby shower & party Invites",
+            "category": "Events"
+        },
+        {
+            "appTitle": "Invitation maker 2020 Birthday & Wedding card Free",
+            "app_link": "/store/apps/dev?id=5819342261711162750",
+            "app_mini_description": "Free Birthday Invitation maker 2020 and Wedding invitation greeting card design",
+            "category": "Events"
+        },
+        {
+            "appTitle": "game.tv",
+            "app_link": "/store/apps/developer?id=game-tv",
+            "app_mini_description": "Mobile esports for communities, clans & guilds. 4Mn+ game communities & counting",
+            "category": "Events"
+        },
+        {
+            "appTitle": "Sympla: Cursos Online, Live de Shows e Eventos",
+            "app_link": "/store/apps/developer?id=Sympla",
+            "app_mini_description": "Online courses or parties, festivals, events for your New Year's Eve: find here!",
+            "category": "Events"
+        },
+        {
+            "appTitle": "Paytm -UPI, Money Transfer, Recharge, Bill Payment",
+            "app_link": "/store/apps/dev?id=5032485548806526009",
+            "app_mini_description": "BHIM UPI, Money Transfer, Electricity Bill Payment, DTH, Metro & Mobile Recharge",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "BCA mobile",
+            "app_link": "/store/apps/developer?id=PT+Bank+Central+Asia+Tbk.",
+            "app_mini_description": "BCA mobile\nPT Bank Central Asia Tbk\nBCA banking application in your hand",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "Google Pay (old app)",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "The fast, simple way to pay with Google",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "Cash App",
+            "app_link": "/store/apps/dev?id=4878871734928263649",
+            "app_mini_description": "P2P. Bitcoin. Stocks. Banking.",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "Krungthai NEXT",
+            "app_link": "/store/apps/developer?id=Krungthai+Bank+PCL.",
+            "app_mini_description": "The revolution of banking services by Krungthai Bank",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "GCash - Buy Load, Pay Bills, Send Money",
+            "app_link": "/store/apps/developer?id=Mynt+-+Globe+Fintech+Innovations",
+            "app_mini_description": "A mobile wallet that lets you shop, send, save, and more with your smartphone!",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "AP - Asan Pardakht",
+            "app_link": "/store/apps/developer?id=mahdi+shahidi",
+            "app_mini_description": "Pay Smarter. Pay Simpler. Pay Anywhere. All *733# services",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "Google Pay: A safe & helpful way to manage money",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Send money, shop, pay bills & earn rewards \u2014 plus a secure mobile wallet",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "bKash",
+            "app_link": "/store/apps/developer?id=bKash+Limited",
+            "app_mini_description": "Send Money, Mobile Recharge, Scan QR, bKash Payment, Pay Bill, Offers Near You",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "YONO SBI: The Mobile Banking and Lifestyle App!",
+            "app_link": "/store/apps/developer?id=State+Bank+of+India",
+            "app_mini_description": "YONO SBI:Bank,Invest,Shop,Travel,Pay Bills,Recharge,use UPI to transfer money",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "PhonePe \u2013 UPI, Recharges, Investments & Insurance",
+            "app_link": "/store/apps/developer?id=PhonePe",
+            "app_mini_description": "India's Payment App! Secure UPI money transfer & payments from your bank account",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "CAIXA",
+            "app_link": "/store/apps/developer?id=Caixa+Econ%C3%B4mica+Federal",
+            "app_mini_description": "Want more than a hundred possibilities in a single application? 're On hand.",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "Banco do Brasil",
+            "app_link": "/store/apps/dev?id=7899202787903517644",
+            "app_mini_description": "#MaisQueDigital is to have the entire bank with just one touch.",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "Nubank",
+            "app_link": "/store/apps/developer?id=Nubank",
+            "app_mini_description": "Nubank - Tired of queues and bureaucracy? US too! Ask for your card.",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a \u041e\u043d\u043b\u0430\u0439\u043d",
+            "app_link": "/store/apps/developer?id=Sberbank+of+Russia",
+            "app_mini_description": "Banking application has never been so quick and easy",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "\u0e40\u0e1b\u0e4b\u0e32\u0e15\u0e31\u0e07 - Paotang",
+            "app_link": "/store/apps/developer?id=Krungthai+Bank+PCL.",
+            "app_mini_description": "Paotang, Krung Thai, is an application that responds to cashless society policies.",
+            "category": "Finance"
+        },
+        {
+            "appTitle": "Swiggy Food Order | Online Grocery | Delivery App",
+            "app_link": "/store/apps/developer?id=Swiggy",
+            "app_mini_description": "Order food, groceries & essentials online, & get quick doorstep deliveries.",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "McDonald's",
+            "app_link": "/store/apps/developer?id=McDonalds+USA,+LLC",
+            "app_mini_description": "Get free McDonald's offers delivered right to your mobile phone!",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Zomato - Online Food Delivery & Restaurant Reviews",
+            "app_link": "/store/apps/dev?id=7812834815367511165",
+            "app_mini_description": "Order food online, check reviews and avail great offers on delivery and dining!",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Grubhub: Local Food Delivery & Restaurant Takeout",
+            "app_link": "/store/apps/dev?id=8587714984751820909",
+            "app_mini_description": "Order food, get restaurant delivery, or pick up food from restaurants near you!",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "McDonald's",
+            "app_link": "/store/apps/developer?id=McDonald%27s+Apps",
+            "app_mini_description": "Download the McDonald\u2019s App to have all the offers in the palm of your hand!",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "foodpanda - Local Food & Grocery Delivery",
+            "app_link": "/store/apps/developer?id=Foodpanda+GmbH+a+subsidiary+of+Delivery+Hero+SE",
+            "app_mini_description": "Easy, fast & convenient. Download now",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Uber Eats: Food Delivery",
+            "app_link": "/store/apps/dev?id=7908612043055486674",
+            "app_mini_description": "Order food delivery from top restaurants to your door!",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "DoorDash - Food Delivery",
+            "app_link": "/store/apps/developer?id=DoorDash",
+            "app_mini_description": "Get your favorite restaurants delivered straight to your door.",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Just Eat UK - Takeaway Delivery",
+            "app_link": "/store/apps/developer?id=Just-Eat+Holding+Limited",
+            "app_mini_description": "Download the free Just Eat app now to order from 20,000+ UK takeaway restaurants",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Delivery Club \u2013 \u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0435\u0434\u044b \u0438 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432",
+            "app_link": "/store/apps/dev?id=7182418195158995682",
+            "app_mini_description": "\u0412\u043a\u0443\u0441\u043d\u0430\u044f \u0435\u0434\u0430 \u0437\u0434\u0435\u0441\u044c! -25% \u043d\u0430 \u043f\u0435\u0440\u0432\u044b\u0439 \u0437\u0430\u043a\u0430\u0437 \u043f\u043e \u043a\u043e\u0434\u0443 DA25",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Yemeksepeti - Order Food & Grocery Easily",
+            "app_link": "/store/apps/dev?id=5635496382498624218",
+            "app_mini_description": "Worlds biggest kitchen.",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Too Good To Go - fight food waste, save great food",
+            "app_link": "/store/apps/developer?id=Too+Good+To+Go+Aps",
+            "app_mini_description": "Eat delicious food for next to nothing and fight food waste!",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Coupang Eats - Rocket Delivery for Food",
+            "app_link": "/store/apps/developer?id=%EC%BF%A0%ED%8C%A1",
+            "app_mini_description": "Track your order real-time\nDelicious eats, fast and effortless\nOne-touch payment",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "\u041f\u044f\u0442\u0451\u0440\u043e\u0447\u043a\u0430",
+            "app_link": "/store/apps/developer?id=%D0%9F%D1%8F%D1%82%D1%91%D1%80%D0%BE%D1%87%D0%BA%D0%B0",
+            "app_mini_description": "Learn about new and lucrative promotions in supermarkets \"Pyaterochka\" first!",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Deliveroo: Takeaway food",
+            "app_link": "/store/apps/dev?id=8634534336203114021",
+            "app_mini_description": "Order takeaway food online to your home with Deliveroo and get it delivered fast",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "\ubc30\ub2ec\uc758\ubbfc\uc871",
+            "app_link": "/store/apps/developer?id=WoowaBrothers",
+            "app_mini_description": "Korea's No. 1 delivery app, the nation of delivery",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "iFood Delivery de Comida e Mercado",
+            "app_link": "/store/apps/developer?id=iFood+Delivery+de+Comida+e+Mercado",
+            "app_mini_description": "Download the app, order food or market items by delivery and schedule delivery",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "\ubc30\ub2ec\uc694\uae30\uc694 - \uae30\ub2e4\ub9bc \uc5c6\ub294 \ub9db\uc9d1 \ubc30\ub2ec\uc571",
+            "app_link": "/store/apps/developer?id=DeliveryHero+Korea",
+            "app_mini_description": "A total of 15,000 won discount on the first order!",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Rappi",
+            "app_link": "/store/apps/developer?id=Rappi,+Inc+-+Delivery",
+            "app_mini_description": "Anything you want delivered in minutes 24/7",
+            "category": "Food & Drink"
+        },
+        {
+            "appTitle": "Bluezone - Contact detection",
+            "app_link": "/store/apps/developer?id=C%E1%BB%A5c+Tin+h%E1%BB%8Dc+h%C3%B3a,+B%E1%BB%99+Th%C3%B4ng+tin+v%C3%A0+Truy%E1%BB%81n+th%C3%B4ng",
+            "app_mini_description": "Bluezone - Protect yourself, protect our community.",
+            "category": "Health & Fitness"
+        },
+        {
+            "appTitle": "Mi Fit",
+            "app_link": "/store/apps/developer?id=Anhui+Huami+Information+Technology+Co.,Ltd.",
+            "app_mini_description": "The official app for Mi wearable devices",
+            "category": "Health & Fitness"
+        },
+        {
+            "appTitle": "Fitbit",
+            "app_link": "/store/apps/developer?id=Fitbit,+Inc.",
+            "app_mini_description": "Fitbit is dedicated to helping people lead healthier, more active lives.",
+            "category": "Health & Fitness"
+        },
+        {
+            "appTitle": "Calm - Meditate, Sleep, Relax",
+            "app_link": "/store/apps/developer?id=Calm.com,+Inc.",
+            "app_mini_description": "Join the millions discovering the life-changing benefits of meditation with Calm",
+            "category": "Health & Fitness"
+        },
+        {
+            "appTitle": "MySejahtera",
+            "app_link": "/store/apps/developer?id=GOVERNMENT+OF+MALAYSIA",
+            "app_mini_description": "MySejahtera was developed to assist in managing the COVID-19 outbreak",
+            "category": "Health & Fitness"
+        },
+        {
+            "appTitle": "Huawei Health",
+            "app_link": "/store/apps/developer?id=Huawei+Internet++Service",
+            "app_mini_description": "Your chief  exercise and health Expert.",
+            "category": "Health & Fitness"
+        },
+        {
+            "appTitle": "Yuka - food & cosmetic scan",
+            "app_link": "/store/apps/developer?id=Yuka+App",
+            "app_mini_description": "Scan food & personal care products and evaluate their impact on your health",
+            "category": "Health & Fitness"
+        },
+        {
+            "appTitle": "The\uac74\uac15\ubcf4\ud5d8(\ub354\uac74\uac15\ubcf4\ud5d8)",
+            "app_link": "/store/apps/developer?id=%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EA%B3%B5%EB%8B%A8",
+            "app_mini_description": "The Health Insurance Service is organized so that the public can easily and quickly access a lot of information on the main contents of the official website.",
+            "category": "Health & Fitness"
+        },
+        {
+            "appTitle": "Zillow: Find Houses for Sale & Apartments for Rent",
+            "app_link": "/store/apps/dev?id=9009299467586107971",
+            "app_mini_description": "Buy Homes, Rent Apartments & Sell Real Estate: Open Houses & Homes for Rent",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "Alfred Home Security Camera: Baby Monitor & Webcam",
+            "app_link": "/store/apps/dev?id=6938192309608563274",
+            "app_mini_description": "Turn old phones into security cameras with motion sensor & 2-way audio",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "Realtor.com Real Estate: Homes for Sale and Rent",
+            "app_link": "/store/apps/dev?id=5789636307889897088",
+            "app_mini_description": "Virtually search & visit up-to-date home listings while you #StayHome safely.",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "Redfin Real Estate: Search & Find Homes for Sale",
+            "app_link": "/store/apps/dev?id=7464504255455326526",
+            "app_mini_description": "Buy & Sell Real Estate | Search MLS Listings & Find Your Dream Home",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "Trulia Real Estate: Search Homes For Sale & Rent",
+            "app_link": "/store/apps/dev?id=7989523405042027763",
+            "app_mini_description": "Real estate app to find homes for sale or rent in the right neighborhood for you",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "Naver Real Estate",
+            "app_link": "/store/apps/dev?id=6225315284672069550",
+            "app_mini_description": "NAVER Real Estate Application for viewing real estate information around you.",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "Urban Company (formerly Urbanclap)",
+            "app_link": "/store/apps/developer?id=Urban+Company",
+            "app_mini_description": "India's No. 1 Home Services App with best-in-class hygiene & 30 lakh+ customers.",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "idealo: Online Shopping Product & Price Comparison",
+            "app_link": "/store/apps/developer?id=idealo+internet+GmbH",
+            "app_mini_description": "Hot deals and discounts to cover your online shopping & money saving needs",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "Zigbang",
+            "app_link": "/store/apps/developer?id=ZIGBANG",
+            "app_mini_description": "Zigbang allows you to check out locations of the room of your choice on the map.",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "\ub2e4\ubc29 \u2013 \ub300\ud55c\ubbfc\uad6d \ub300\ud45c \ubd80\ub3d9\uc0b0 \uc571",
+            "app_link": "/store/apps/developer?id=STATION3",
+            "app_mini_description": "Any room, these days, all the cafes!",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "\u0426\u0438\u0430\u043d. \u041d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u044c: \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b, \u043d\u043e\u0432\u043e\u0441\u0442\u0440\u043e\u0439\u043a\u0438, \u0438\u043f\u043e\u0442\u0435\u043a\u0430",
+            "app_link": "/store/apps/developer?id=Cian.ru",
+            "app_mini_description": "Rent or buy an apartment, house, cottage. New buildings, secondary housing. Mortgage.",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "\ud638\uac31\ub178\ub178 - \uc544\ud30c\ud2b8 \uc2e4\uac70\ub798\uac00 \uc870\ud68c 1\ub4f1 \ubd80\ub3d9\uc0b0\uc571",
+            "app_link": "/store/apps/developer?id=%ED%98%B8%EA%B0%B1%EB%85%B8%EB%85%B8",
+            "app_mini_description": "The easiest real estate app to view the actual apartment transaction price of the Ministry of Land, Infrastructure and Transport\n: Real-time popular apartments, properties, price fluctuations, transaction volume, population movement, 3D sunlight volume, school price, sales",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "\ud53c\ud130\ud32c\uc758 \uc88b\uc740\ubc29 \uad6c\ud558\uae30 -  No.1 \ubd80\ub3d9\uc0b0 \uc9c1\uac70\ub798 (\uc6d0\ub8f8, \uc544\ud30c\ud2b8, \uc624\ud53c\uc2a4\ud154, \uc0c1\uac00)",
+            "app_link": "/store/apps/developer?id=%ED%94%BC%ED%84%B0%ED%8C%AC%EC%9D%98+%EC%A2%8B%EC%9D%80%EB%B0%A9+%EA%B5%AC%ED%95%98%EA%B8%B0",
+            "app_mini_description": "No fee real estate app\nOne-roomtel, one-room, two-room, officetel, villa, share house, apartment, roommate\nMeet Peter Pan in Good Ways :)",
+            "category": "House & Home"
+        },
+        {
+            "appTitle": "Cardboard",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Experience virtual reality on your smartphone with Cardboard.",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "V380 Pro",
+            "app_link": "/store/apps/developer?id=macrovideo",
+            "app_mini_description": "\"V380 Pro\" is a free video service product aiming at home users",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Tricks Bad Guy At School 2020",
+            "app_link": "/store/apps/developer?id=obax+fire",
+            "app_mini_description": "play as student revolt against school to complete missions in Bad guys At school",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "X-Ray Filter Photo",
+            "app_link": "/store/apps/dev?id=8264278221503661667",
+            "app_mini_description": "X-Ray Filter Photo",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "App Cloner Premium & Add-ons",
+            "app_link": "/store/apps/developer?id=App+Listo",
+            "app_mini_description": "Using App Cloner you can create & install multiple copies of your existing apps.",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "PGT Free \ud83d\udd27: GFX & Optimizer",
+            "app_link": "/store/apps/dev?id=4898227705286580329",
+            "app_mini_description": "An essential GFX utility developed for specific FPS mobile games",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "IP Pro(VR Cam, EseeCloud)",
+            "app_link": "/store/apps/developer?id=wu+peilin",
+            "app_mini_description": "IP Pro IPC Pro\uff0c24 Hour Remote Video Surveillance Moblie Application",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Phone Cool Down - Cooling Master & CPU Cooler",
+            "app_link": "/store/apps/developer?id=Better+Experience",
+            "app_mini_description": "Cool down your phone temperature with cooler master app to fast battery charger",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Game Booster Free Fire GFX- Lag Fix",
+            "app_link": "/store/apps/dev?id=6379443585294642194",
+            "app_mini_description": "\ud83d\udd25Free Fire Game Booster & GFX Tool & Lag Fix  \ud83d\udd25",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Gamers GLTool Free with Game Turbo & Game Tuner",
+            "app_link": "/store/apps/dev?id=4898227705286580329",
+            "app_mini_description": "Tune your game graphics with our GFX optimizer for lag free gaming experience",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Mirror Link",
+            "app_link": "/store/apps/dev?id=8125367806341362231",
+            "app_mini_description": "Do you want to drive easy ? do you wanna full mirror link phone with your car tv",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "MX Player Codec (ARMv7 NEON)",
+            "app_link": "/store/apps/developer?id=MX+Media+%28formerly+J2+Interactive%29",
+            "app_mini_description": "MX Player Codec for ARMv7 NEON CPUs.",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Black Light",
+            "app_link": "/store/apps/dev?id=7562197840432606874",
+            "app_mini_description": "Simulator of real black light",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Guide for Talking Tom Hero Dash Game",
+            "app_link": "/store/apps/developer?id=JUSTON+GAMES",
+            "app_mini_description": "Provide simple progression courses",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Barcode Scanner",
+            "app_link": "/store/apps/developer?id=Cognex+Corporation",
+            "app_mini_description": "Put the power of the Cognex Mobile Barcode SDK in your hands today!",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Tv Connector (HDMI /MHL/USB)",
+            "app_link": "/store/apps/developer?id=high-TechPro",
+            "app_mini_description": "Tv connector will assist you to connect your android phone on smart TV",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Phone Connect to tv",
+            "app_link": "/store/apps/developer?id=high-tech",
+            "app_mini_description": "Tv Connector allows you connect phone to tv  using hdmi cable or usb",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Wolf Game Booster & GFX Tool for PU and FF",
+            "app_link": "/store/apps/dev?id=5019535404433459218",
+            "app_mini_description": "Best Game Tool, Game Booster and GFX Tool for PU and FF",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "GFX Tool for PUBG - Game Launcher & Optimizer",
+            "app_link": "/store/apps/dev?id=7690891472206572177",
+            "app_mini_description": "GFX Tool developed for improve your game performance. \ud83d\udd25\ud83c\udf57",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Bendy Mod",
+            "app_link": "/store/apps/developer?id=motooo+3D",
+            "app_mini_description": "Bendy And The Ink Machine Mod for Minecraft PE",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Mods Minecraft PE - Addons MCPE",
+            "app_link": "/store/apps/developer?id=Hunter+Line",
+            "app_mini_description": "Automatically installs on your Minecraft easily",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Mirror link car connector",
+            "app_link": "/store/apps/dev?id=5010991296348314716",
+            "app_mini_description": "Do you want to drive easy ? do you wanna full mirror link Mobile with your car",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Solfeggio Frequencies & Binaural Beats Meditation",
+            "app_link": "/store/apps/dev?id=5861778531754165749",
+            "app_mini_description": "Solfeggio frequencies and binaural beats for chakra and mindfulness meditation.",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Best SMS Ringtones 2021 \ud83d\udd25 | 100+ SMS Sounds",
+            "app_link": "/store/apps/dev?id=5781711887749363486",
+            "app_mini_description": "100+ Cool Ringtones to set as your SMS Message Alert tone and SMS ringtones.",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Mobile Connect To TV USB",
+            "app_link": "/store/apps/developer?id=high-TechPro",
+            "app_mini_description": "Mobile Connect To TV app is to screen mirroring phone to tv",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "V380s",
+            "app_link": "/store/apps/developer?id=JayLee",
+            "app_mini_description": "Our WiFi camera products can be used to achieve remote configuration camera",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Drone Remote Control",
+            "app_link": "/store/apps/dev?id=8295305621930182229",
+            "app_mini_description": "use your smartphone as Remote control drones  .",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Best Galaxy S20 Ultra Ringtones 2021 for Android",
+            "app_link": "/store/apps/dev?id=5781711887749363486",
+            "app_mini_description": "Big collection of the Best ringtones for Galaxy S20 for Android Free",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Mirror Link Screen Connector",
+            "app_link": "/store/apps/dev?id=7471369625415291568",
+            "app_mini_description": "want to drive easy ? wanna full mirror link phone with your car tv ? good choice",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Repair SD Card Damaged Formatter",
+            "app_link": "/store/apps/dev?id=4981047048485379006",
+            "app_mini_description": "Repair SD Card Damaged Formatter !",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "CrazyCraft Mods - Addons and Modpack",
+            "app_link": "/store/apps/developer?id=DARTCOM-IT+S.R.L.",
+            "app_mini_description": "Download CrazyCraft Mod and Addons",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "USB Connector phone to tv",
+            "app_link": "/store/apps/developer?id=high-tech",
+            "app_mini_description": "Usb connector Phone to tv app allows you to connect your phone to TV usb , hdmi",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Best Ringtones 2021",
+            "app_link": "/store/apps/developer?id=Top+Ringtones+2018",
+            "app_mini_description": "Enjoy for free the best Ringtones and Wallpapers of 2021. free music ringtones",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Air 4 Android",
+            "app_link": "/store/apps/dev?id=8112583962804012005",
+            "app_mini_description": "Air 4 Android - Android System Menu (emulation) for Adobe Flash CS5.5 Air 2.6 up",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Best Galaxy S9 Plus Ringtones 2021 | Free",
+            "app_link": "/store/apps/dev?id=5781711887749363486",
+            "app_mini_description": "Download The 100 Best Galaxy S9+ Ringtones & Notifications For Free",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "The Zafiro Simulator Of G.B.A - Glass Edition",
+            "app_link": "/store/apps/developer?id=Sapphire+Studio.",
+            "app_mini_description": "Bring that nostalgic feeling of the old good days playing retro  gbames",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Top Popular Ringtones 2020 Free \ud83d\udd25",
+            "app_link": "/store/apps/dev?id=7416249601131046227",
+            "app_mini_description": "Finding The Best Cool Popular Ringtones for Android\u2122 2020 \ud83d\udd25",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Pydroid repository plugin",
+            "app_link": "/store/apps/developer?id=IIEC",
+            "app_mini_description": "A Pydroid Quick Install repository provider.",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Arcade T-KN 3 PS Classic Games 2020",
+            "app_link": "/store/apps/developer?id=Kids+Quiz",
+            "app_mini_description": "Hints TK 3 Classic gives you the best classic fight game tips to play",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Graphics Manager with GFX(Addon for Gamers GLTool)",
+            "app_link": "/store/apps/dev?id=4898227705286580329",
+            "app_mini_description": "Customize the graphics settings of your games with built-in GFX Tool",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "FD VR - Virtual App Launcher",
+            "app_link": "/store/apps/developer?id=Browser+by+Fulldive+Co.",
+            "app_mini_description": "VR App Launcher OS - Cardboard or Daydream - Launch all VR Virtual Reality Apps",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Come Follow Me",
+            "app_link": "/store/apps/developer?id=Nuvek,+LLC",
+            "app_mini_description": "Daily CFM devotionals!",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "SYMA-FPV",
+            "app_link": "/store/apps/developer?id=SYMA",
+            "app_mini_description": "Real-time transmission software application",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Camera Block Free - Anti spyware & Anti malware",
+            "app_link": "/store/apps/developer?id=BytePioneers+s.+r.+o.",
+            "app_mini_description": "Block, disable and secure phone camera and protect your privacy from spyware.",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Top Samsung Galaxy  new ringtones",
+            "app_link": "/store/apps/developer?id=Ringtones.Icloud",
+            "app_mini_description": "The latest top Samsung Galaxy ringtones, the best mobile ringtones in the 5G era",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "My Movies 3 - Movie & TV Collection Library",
+            "app_link": "/store/apps/developer?id=Binnerup+Consult",
+            "app_mini_description": "Catalog & tracker of your DVD, Blu-ray & Digital Movie & TV Collection Library",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Cardboard Design Lab",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Design Principles for Virtual Reality",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Endoscope Camera Connector",
+            "app_link": "/store/apps/dev?id=5010991296348314716",
+            "app_mini_description": "With Endoscope Camera Connector you can connect your phone with endoscope cam",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "New Ringtones for Android phone Free 2021",
+            "app_link": "/store/apps/dev?id=5781711887749363486",
+            "app_mini_description": "Big Collection of the best ringtones of 2021 !! Download them Now",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Can'u - Sex Game challenges for couple",
+            "app_link": "/store/apps/developer?id=Canuapp",
+            "app_mini_description": "Pleasure awaits! Send mysterious naughty dares to your partner.",
+            "category": "Libraries & Demo "
+        },
+        {
+            "appTitle": "Pinterest",
+            "app_link": "/store/apps/developer?id=Pinterest",
+            "app_mini_description": "Explore lifestyle inspiration: new recipes, creative wedding tips & design ideas",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "Google Home",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "Set up and control your compatible Nest, Chromecast, and Google Home devices.",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "Zara",
+            "app_link": "/store/apps/developer?id=Inditex",
+            "app_mini_description": "Shop Online",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "MyMCI",
+            "app_link": "/store/apps/developer?id=DigitalMCI",
+            "app_mini_description": "MCI E-Care application",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "myAIS",
+            "app_link": "/store/apps/developer?id=MIMO+Tech+Company+Limited",
+            "app_mini_description": "Personalized to Delight",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "Amazon Alexa",
+            "app_link": "/store/apps/developer?id=Amazon+Mobile+LLC",
+            "app_mini_description": "ALWAYS READY, CONNECTED, AND FAST. Just ask.",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "Mi Home",
+            "app_link": "/store/apps/dev?id=5113340212256272297",
+            "app_mini_description": "Mi Home is the official Android app for Xiaomi Home.",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "Khmer Lunar Calendar",
+            "app_link": "/store/apps/dev?id=8124543308330191770",
+            "app_mini_description": "Khmer Lunar Calendar 1900-2100\nCombine with Gregorian Calendar, Feng Shui...",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "Cashzine: Buzz Interact & Get Reward Daily",
+            "app_link": "/store/apps/developer?id=Points+Culture",
+            "app_mini_description": "Cashzine is a lifestyle app that generates daily buzz to engage with friends.",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "Caf - Mon Compte",
+            "app_link": "/store/apps/developer?id=Caisse+nationale+des+Allocations+familiales",
+            "app_mini_description": "You are beneficiary of the Caf? Find \"My Account\" on your mobile phone.",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "Life360: Family Locator & GPS Tracker for Safety",
+            "app_link": "/store/apps/developer?id=Life360",
+            "app_mini_description": "Comprehensive family safety membership plans for busy, modern life.",
+            "category": "Lifestyle"
+        },
+        {
+            "appTitle": "Waze - GPS, Maps, Traffic Alerts & Live Navigation",
+            "app_link": "/store/apps/developer?id=Waze",
+            "app_mini_description": "Save time on every drive. Waze tells you about traffic, police, crashes & more",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Yandex.Maps \u2013 Transport, Navigation, City Guide",
+            "app_link": "/store/apps/dev?id=9141303443900639327",
+            "app_mini_description": "Search organizations, get directions, traffic & transport info, use maps offline",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Moovit: All Local Transit & Mobility Options",
+            "app_link": "/store/apps/dev?id=5648891177850034767",
+            "app_mini_description": "Timing, navigation & trip planning for all transit types.1 app to plan,pay,ride.",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "DB Navigator",
+            "app_link": "/store/apps/developer?id=Deutsche+Bahn",
+            "app_mini_description": "Tickets, real-time information and coach sequence",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Ola, Safe and affordable rides",
+            "app_link": "/store/apps/developer?id=ola",
+            "app_mini_description": "Safe and affordable ride hailing",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "\u0628\u0644\u062f \u2013 \u0646\u0642\u0634\u0647 \u0648 \u0645\u0633\u06cc\u0631\u06cc\u0627\u0628 \u0641\u0627\u0631\u0633\u06cc",
+            "app_link": "/store/apps/developer?id=Balad",
+            "app_mini_description": "Fast and uncomplicated routing",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Uber - Request a ride",
+            "app_link": "/store/apps/dev?id=7908612043055486674",
+            "app_mini_description": "We\u2019ve established new safety protocols to help you feel safe when you ride.",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Snapp",
+            "app_link": "/store/apps/developer?id=Snapp,+Inc.",
+            "app_mini_description": "The largest Super App in the Middle East",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Grab - Transport, Food Delivery, Payments",
+            "app_link": "/store/apps/developer?id=Grab+Holdings",
+            "app_mini_description": "Enjoy safe and reliable rides, food delivery and cashless payments in one app",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "T map - \ub0b4\ube44\uac8c\uc774\uc158 / \uc9c0\ub3c4",
+            "app_link": "/store/apps/developer?id=TMAP+MOBILITY+CO.",
+            "app_mini_description": "T map, Korea's No.1 map service chosen by 18 million people",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Lyft - Rideshare, Bikes, Scooters & Transit",
+            "app_link": "/store/apps/dev?id=6629245766506578153",
+            "app_mini_description": "Get matched with a nearby driver \u2014 you\u2019ll be on your way in minutes.",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "99 - Private Driver and Taxi",
+            "app_link": "/store/apps/developer?id=99+Tecnologia+LTDA",
+            "app_mini_description": "The most complete transportation solution in Brazil.",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Citymobil Taxi",
+            "app_link": "/store/apps/developer?id=%D0%A1%D0%B8%D1%82%D0%B8%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB",
+            "app_mini_description": "Easily request a taxi in Moscow and get an affordable ride in minutes.",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "inDriver \u2014 Better than a taxi",
+            "app_link": "/store/apps/developer?id=%C2%AE+SUOL+INNOVATIONS+LTD",
+            "app_mini_description": "Offer your fare",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Yango Pro (Taximeter)\u2014Driver job in taxi for ride",
+            "app_link": "/store/apps/dev?id=9141303443900639327",
+            "app_mini_description": "Yango Pro \u2014 get orders from Yango and Yandex Go, start driving, get paid.",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Yandex Go \u2014 taxi and delivery",
+            "app_link": "/store/apps/dev?id=9141303443900639327",
+            "app_mini_description": "App to order taxi or delivery",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Bolt: Fast, Affordable Rides",
+            "app_link": "/store/apps/dev?id=8420210619522248974",
+            "app_mini_description": "Bolt is a transportation app used for requesting a fast and affordable ride.",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "Kakao T - Taxi, Driver, Parking, Navigation, Bike",
+            "app_link": "/store/apps/developer?id=Kakao+Mobility+Corp.",
+            "app_mini_description": "The app for everyone on the go",
+            "category": "Maps & Navigation"
+        },
+        {
+            "appTitle": "MyChart",
+            "app_link": "/store/apps/developer?id=Epic+Systems+Corporation",
+            "app_mini_description": "MyChart for Android",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "UT Exposure Notifications",
+            "app_link": "/store/apps/developer?id=Utah+Department+Of+Health",
+            "app_mini_description": "The official exposure notification app for Utah",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "LabCorp | Patient",
+            "app_link": "/store/apps/developer?id=Laboratory+Corporation+of+America+Holdings/LabCorp",
+            "app_mini_description": "Conveniently receive lab results, schedule lab appointment and manage dependents",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "MyQuest for Patients",
+            "app_link": "/store/apps/developer?id=Quest+Diagnostics+Incorporated",
+            "app_mini_description": "Get your lab results on your smartphone with MyQuest.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "FollowMyHealth\u00ae",
+            "app_link": "/store/apps/developer?id=Allscripts+Healthcare+Solutions+Inc",
+            "app_mini_description": "Manage your healthcare through the FollowMyHealth\u00ae Universal Health Record.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "UH Go",
+            "app_link": "/store/apps/developer?id=University+Health+System",
+            "app_mini_description": "Navigate your healthcare experience using our University Health Go app.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "BD\u2122 Diabetes Care:  24/7 Diabetes Assistant & Log",
+            "app_link": "/store/apps/developer?id=BD+-+Digital+Health",
+            "app_mini_description": "24/7 Diabetes assistant, healthy diabetic recipes & logbook",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Publix Pharmacy",
+            "app_link": "/store/apps/dev?id=9080371205220331041",
+            "app_mini_description": "Manage your prescriptions anytime, anywhere with the Publix Pharmacy mobile app.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "ArmorVax",
+            "app_link": "/store/apps/developer?id=RB+Sigma+LLC",
+            "app_mini_description": "Your vaccination process has never been easier!",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Visit Center",
+            "app_link": "/store/apps/developer?id=Fartak+Arjan+Co",
+            "app_mini_description": "A simple way to book an appointment",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Healthy Benefits Plus",
+            "app_link": "/store/apps/developer?id=Solutran,+Inc.",
+            "app_mini_description": "Easy Access to OTC benefits",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "VITAS\u00ae Healthcare App",
+            "app_link": "/store/apps/developer?id=VITAS+Healthcare+Corporation",
+            "app_mini_description": "A Hospice App for Clinicians",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Prisma Health GO",
+            "app_link": "/store/apps/developer?id=Prisma+Health",
+            "app_mini_description": "Never get lost again - Step-by-step hospital navigation",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "GoodRx: Prescription Drugs Discounts & Coupons App",
+            "app_link": "/store/apps/developer?id=GoodRx",
+            "app_mini_description": "Free Rx Mobile Coupons, Compare Pharmacy Prices & Save Up to 80% on Medications",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Physio Ed.",
+            "app_link": "/store/apps/developer?id=PhysioEd.+LLC",
+            "app_mini_description": "Physical education programs for older adults.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "PetPro Connect",
+            "app_link": "/store/apps/developer?id=Boehringer+Ingelheim+International+GmbH",
+            "app_mini_description": "pet, health, telemedicine, veterinary",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Rx Discount App - America\u2019s Pharmacy",
+            "app_link": "/store/apps/developer?id=The+MCN+Group+LLC",
+            "app_mini_description": "Save on medications with prescription drug discounts from America\u2019s Pharmacy!",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "SingleCare: Prescription Drug Coupons & Discounts",
+            "app_link": "/store/apps/developer?id=Singlecare,+LLC",
+            "app_mini_description": "Get your free coupon, compare Rx prices & save up to 80% on prescriptions today!",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "CheckIn2Work",
+            "app_link": "/store/apps/developer?id=Axiom+Medical",
+            "app_mini_description": "Medical self-service attestation solution for employers",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "NAVICA",
+            "app_link": "/store/apps/developer?id=Abbott",
+            "app_mini_description": "Receive, store, and share Abbott BinaxNow antigen test results",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "myRiverside",
+            "app_link": "/store/apps/developer?id=Riverside+Healthcare",
+            "app_mini_description": "View your medical records, contact your care team, find a doctor and plan visit.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Optum Perks: Prescription Coupons & RX Discounts",
+            "app_link": "/store/apps/developer?id=Optum+Inc.",
+            "app_mini_description": "Say no to high prescription costs. Get free drug coupons for local pharmacies!",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Fuzzy: Live Vet Care & Support for Cats & Dogs",
+            "app_link": "/store/apps/developer?id=Fuzzy,+Inc",
+            "app_mini_description": "Get trusted care for your pets, supplements, & live vet support when you need it",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Aetna Health",
+            "app_link": "/store/apps/developer?id=Aetna+Inc",
+            "app_mini_description": "Manage your health care in one easy place",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Suicide Safe",
+            "app_link": "/store/apps/developer?id=SAMHSA",
+            "app_mini_description": "The Suicide Prevention App for Primary Care and Behavioral Health Providers",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "\u91ab\u5065\u901aeHealth",
+            "app_link": "/store/apps/developer?id=eHR+Office,+Food+and+Health+Bureau,+HKSARG",
+            "app_mini_description": "Provides useful health information and the electronic health record.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Carbon Health\u00ae: Telehealth & Medical Clinics",
+            "app_link": "/store/apps/developer?id=Carbon+Health",
+            "app_mini_description": "Primary & Urgent Care For Adults & Pediatrics. Telemedicine via Virtual Doctors.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Humana Military",
+            "app_link": "/store/apps/developer?id=Humana+Government+Business",
+            "app_mini_description": "Humana Military for TRICARE East",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Dexcom G6",
+            "app_link": "/store/apps/developer?id=Dexcom",
+            "app_mini_description": "Dexcom G6 Continuous Glucose Monitoring System",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Babylon - Virtual Doctor and Telehealth Services",
+            "app_link": "/store/apps/developer?id=Babylon+Health",
+            "app_mini_description": "Talk to a provider 24/7, check your symptoms and monitor your health & wellbeing",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "BCBSOK",
+            "app_link": "/store/apps/developer?id=Blue+Cross+and+Blue+Shield+of+Oklahoma",
+            "app_mini_description": "Blue Cross and Blue Shield of Oklahoma member information",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Castlight Mobile",
+            "app_link": "/store/apps/developer?id=Castlight+Health",
+            "app_mini_description": "Castlight Mobile lets you find affordable and high-quality medical care.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "VSee Clinic for Patient",
+            "app_link": "/store/apps/developer?id=VSee+Lab,+Inc.",
+            "app_mini_description": "VSee Clinic is a simple, secure way to consult with your provider.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "PM Pediatrics Anywhere",
+            "app_link": "/store/apps/developer?id=PM+Pediatrics",
+            "app_mini_description": "Connect immediately via phone/video with a pediatric expert from PM Pediatrics",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Frontline Health Portal",
+            "app_link": "/store/apps/developer?id=Healthmaster",
+            "app_mini_description": "Connect to your school childrens\u2019 health records. Supporting schools only.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "NYU Langone Health",
+            "app_link": "/store/apps/developer?id=NYU+Langone+Health",
+            "app_mini_description": "Use our NYU Langone Health app to access your health information anywhere.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "myPhonak",
+            "app_link": "/store/apps/developer?id=Sonova+AG",
+            "app_mini_description": "Get the most out of your Phonak hearing aids",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "ClearCareGo Caregiver",
+            "app_link": "/store/apps/developer?id=ClearCare+Online,+Inc.",
+            "app_mini_description": "Clock in, view assessments, and manage your schedule from our new native app.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Solv: Convenient healthcare",
+            "app_link": "/store/apps/developer?id=Solv+Health",
+            "app_mini_description": "Same-day in-person and telemed appointments",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "myAir\u2122 for Air10\u2122 by ResMed",
+            "app_link": "/store/apps/developer?id=ResMed",
+            "app_mini_description": "Track your sleep therapy progress and access helpful tips and videos.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "CSL Plasma",
+            "app_link": "/store/apps/developer?id=CSL+PLASMA+INC.",
+            "app_mini_description": "Good for You. Great for Life.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "DrOwl- Sync Med Records +Telehealth +Check-in Tool",
+            "app_link": "/store/apps/developer?id=MrOwl",
+            "app_mini_description": "Securely sync, access & share med records. Get telehealth. Use check-in tool.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Teladoc",
+            "app_link": "/store/apps/developer?id=Teladoc,+Inc.",
+            "app_mini_description": "24/7 access to a doctor",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Zocdoc Find A Doctor & Book On Demand Appointments",
+            "app_link": "/store/apps/developer?id=Zocdoc,+Inc.",
+            "app_mini_description": "Doctors & dentists online + in your area - book a same day appointment",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Sydney Health",
+            "app_link": "/store/apps/developer?id=Anthem+%26+Affiliates",
+            "app_mini_description": "Anthem/Empire health plan info",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "CDC Vaccine Schedules",
+            "app_link": "/store/apps/developer?id=Centers+for+Disease+Control+and+Prevention",
+            "app_mini_description": "CDC immunization schedules for clinicians recommending or administering vaccines",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "LiveWell with Advocate Aurora",
+            "app_link": "/store/apps/developer?id=Advocate+Aurora+Health",
+            "app_mini_description": "All your health info, all in one place: LiveWell with Advocate Aurora Health.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Planned Parenthood Direct\u2120",
+            "app_link": "/store/apps/developer?id=Planned+Parenthood+Federation+of+America+Inc.",
+            "app_mini_description": "Birth control, emergency contraception, & UTI treatment through your phone!",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "VerbalCare",
+            "app_link": "/store/apps/developer?id=Medical+Specialties+Distributors,+LLC",
+            "app_mini_description": "VerbalCare app a direct dialogue between healthcare providers and patients.",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "K Health | Telehealth, Primary Care & Pediatrics",
+            "app_link": "/store/apps/developer?id=K+Health",
+            "app_mini_description": "Health answers & doctors at your service for you and your family, all from home",
+            "category": "Medical"
+        },
+        {
+            "appTitle": "Samsung Music",
+            "app_link": "/store/apps/dev?id=5200379633052405703",
+            "app_mini_description": "- Music player for Samsung Galaxy series\n- Supports for Android 5.0, 6.0 and 7.0",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "Spotify: Listen to podcasts & find music you love",
+            "app_link": "/store/apps/developer?id=Spotify+Ltd.",
+            "app_mini_description": "Discover new music & play your favorite songs, albums, artists & podcasts",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "YouTube Music - Stream Songs & Music Videos",
+            "app_link": "/store/apps/dev?id=5700313618786177705",
+            "app_mini_description": "The official YouTube app built just for music.",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "Pandora - Streaming Music, Radio & Podcasts",
+            "app_link": "/store/apps/developer?id=Pandora",
+            "app_mini_description": "Hand-picked songs by some of the top athletes in the world on UNINTERRUPTED.",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "Audiomack: Download New Music Offline Free",
+            "app_link": "/store/apps/dev?id=6125644571795195171",
+            "app_mini_description": "Stream & Download the best new music for free and listen offline with audiomack!",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "Gaana Music Hindi Song Free Tamil Telugu MP3 App",
+            "app_link": "/store/apps/developer?id=Gamma+Gaana+Ltd",
+            "app_mini_description": "Free Music, Podcast & Hotshots Video - Download Hindi Punjabi Telugu MP3 Songs",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "SoundCloud - Play Music, Audio & New Songs",
+            "app_link": "/store/apps/developer?id=SoundCloud",
+            "app_mini_description": "The \ud83c\udf0e\u2019s largest audio and music \ud83c\udfb6streaming platform, with over 200M tracks \ud83c\udfc6",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "Amazon Music: Stream and Discover Songs & Podcasts",
+            "app_link": "/store/apps/developer?id=Amazon+Mobile+LLC",
+            "app_mini_description": "Listen to podcasts, trending playlists, hit music and your favorite songs",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "Lark Music Player - Audio Player & MP3 Player",
+            "app_link": "/store/apps/developer?id=Lark+Player+Studio",
+            "app_mini_description": "All Formats Audio and Video Player, Free Background Music Streaming",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "Shazam: Discover songs & lyrics in seconds",
+            "app_link": "/store/apps/developer?id=Apple,+Inc.",
+            "app_mini_description": "Find artists, lyrics, & videos for free! Play or connect to stream music now!",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "LMR - Loyalty Free Music",
+            "app_link": "/store/apps/developer?id=Lyubomir+Hristov",
+            "app_mini_description": "Search through thousands of loyalty free music and download them with one click.",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "Video MP3 Converter",
+            "app_link": "/store/apps/developer?id=FunDevs+LLC",
+            "app_mini_description": "Fastest MP3 Converter! Create your MP3 file fast and easy!!",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "JioSaavn Music & Radio \u2013 JioTunes, Podcasts, Songs",
+            "app_link": "/store/apps/developer?id=Saavn+Media+Limited",
+            "app_mini_description": "Listen to English, Bollywood, Hindi, Tamil, Telugu, Punjabi, set JioTunes & more",
+            "category": "Music and Audio"
+        },
+        {
+            "appTitle": "Roblox",
+            "app_link": "/store/apps/dev?id=5360036014478858866",
+            "app_mini_description": "Roblox lets you play, create, and be anything you can imagine.",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Brawl Stars",
+            "app_link": "/store/apps/dev?id=6715068722362591614",
+            "app_mini_description": "3v3 and Battle Royale",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Toca Life World: Build stories & create your world",
+            "app_link": "/store/apps/dev?id=8567646723268777320",
+            "app_mini_description": "Create storylines, make unique characters & build your own exciting world",
+            "category": "Games "
+        },
+        {
+            "appTitle": "My Talking Tom Friends",
+            "app_link": "/store/apps/dev?id=5630538819012062144",
+            "app_mini_description": "Play for free and join the best new virtual pet game adventure!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Barbie Dreamhouse Adventures",
+            "app_link": "/store/apps/dev?id=7489594886728593506",
+            "app_mini_description": "Hey, it\u2019s Barbie! Join us to celebrate love & friendship in the Dreamhouse!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "PK XD - Explore and Play with your Friends!",
+            "app_link": "/store/apps/dev?id=8508730787410367067",
+            "app_mini_description": "Create, Talk & Play with your Friends in your own world. Try all the minigames!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Among Us",
+            "app_link": "/store/apps/developer?id=Innersloth+LLC",
+            "app_mini_description": "Join your crewmates in a multiplayer game of teamwork and betrayal!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Moy 7 the Virtual Pet Game",
+            "app_link": "/store/apps/dev?id=8503753108326993615",
+            "app_mini_description": "\ud83d\udc96 Moy is back! \ud83d\udc96",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Baby Panda World",
+            "app_link": "/store/apps/dev?id=4946022439885210717",
+            "app_mini_description": "Supermarket, dessert shops, beauty salon, castle...100 areas to be explored!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "LokiCraft",
+            "app_link": "/store/apps/developer?id=akseno2",
+            "app_mini_description": "Best of Game",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Extreme Car Driving Simulator",
+            "app_link": "/store/apps/dev?id=7842996855899014066",
+            "app_mini_description": "The best car driving simulator of 2014. Download it now for free!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Block Craft 3D: Building Simulator Games For Free",
+            "app_link": "/store/apps/developer?id=Fun+Games+For+Free",
+            "app_mini_description": "Have fun building your city in this 3D simulation game! Download now for free!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Garena Free Fire - The Cobra",
+            "app_link": "/store/apps/developer?id=GARENA+INTERNATIONAL+I+PRIVATE+LIMITED",
+            "app_mini_description": "10-minute Survival Shooter!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Supreme Duelist Stickman",
+            "app_link": "/store/apps/dev?id=4977632237942662751",
+            "app_mini_description": "Supreme Duelist Stickman  is a funny stick fight mobile game",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Toca Kitchen 2",
+            "app_link": "/store/apps/dev?id=8567646723268777320",
+            "app_mini_description": "The wildly popular Toca Kitchen is back!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Dream League Soccer 2021",
+            "app_link": "/store/apps/dev?id=6141822560324008098",
+            "app_mini_description": "Official FIFPro\u2122 licensed soccer",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Coloring & Learn",
+            "app_link": "/store/apps/dev?id=5888460665412460525",
+            "app_mini_description": "Fun educational game - The best way to learn, create, draw and color!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Zombie Catchers - love the hunt!",
+            "app_link": "/store/apps/developer?id=Deca+Games",
+            "app_mini_description": "The zombies are on the run. The chase is on!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Rally Fury - Extreme Racing",
+            "app_link": "/store/apps/developer?id=Refuel+Games+Pty+Ltd",
+            "app_mini_description": "Drift around corners, catch air over jumps, hit your boost and race to victory!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "My Talking Tom 2",
+            "app_link": "/store/apps/dev?id=5630538819012062144",
+            "app_mini_description": "The coolest virtual pet cat is back! Play Tom\u2019s new game and have the best fun!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Banana Kong",
+            "app_link": "/store/apps/dev?id=8812103738509382093",
+            "app_mini_description": "A thrilling ride through jungle, caves and treetops",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Talking Tom Gold Run",
+            "app_link": "/store/apps/dev?id=5630538819012062144",
+            "app_mini_description": "Run and chase the robber to get your gold back in the best endless runner!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "My Talking Angela",
+            "app_link": "/store/apps/dev?id=5630538819012062144",
+            "app_mini_description": "A singing, dancing fashion star from the makers of My Talking Tom!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Traffic Racer",
+            "app_link": "/store/apps/dev?id=7063637161723821824",
+            "app_mini_description": "The Next-Gen of Endless Arcade Racing",
+            "category": "Games "
+        },
+        {
+            "appTitle": "WildCraft: Animal Sim Online 3D",
+            "app_link": "/store/apps/dev?id=6804371481370659921",
+            "app_mini_description": "Explore the wild world with custom animals. Play this free online simulator game",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Bubbu \u2013 My Virtual Pet",
+            "app_link": "/store/apps/dev?id=7263645302164630442",
+            "app_mini_description": "Adopt a new cat, Bubbu, and become his best friend.",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Standoff 2",
+            "app_link": "/store/apps/developer?id=AXLEBOLT+LTD",
+            "app_mini_description": "The legendary \"Standoff\" is back in the form of a dynamic first-person shooter!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Talking Tom Hero Dash - Run Game",
+            "app_link": "/store/apps/dev?id=5630538819012062144",
+            "app_mini_description": "The best free and fun superhero runner game by Outfit7, creators of Talking Tom!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Traffic Rider",
+            "app_link": "/store/apps/dev?id=7063637161723821824",
+            "app_mini_description": "The Next-Gen of Endless Motorbike Racing",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Beach Buggy Racing",
+            "app_link": "/store/apps/dev?id=4755087643347583553",
+            "app_mini_description": "The amazing free 3D kart racing game. Race, collect, upgrade and win!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Anger of stick 5 : zombie",
+            "app_link": "/store/apps/dev?id=8321223047702517551",
+            "app_mini_description": "'AngerOfStick'  The world's most popular action game",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Hello Kitty Nail Salon",
+            "app_link": "/store/apps/dev?id=7489594886728593506",
+            "app_mini_description": "Create supercute manicures with Hello Kitty!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Score! Hero",
+            "app_link": "/store/apps/dev?id=6141822560324008098",
+            "app_mini_description": "BE THE HERO! Pass, Shoot & Score your way to legendary status!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Mini World: Block Art",
+            "app_link": "/store/apps/developer?id=SuperNice++Digital+Marketing+Co.,+Ltd.",
+            "app_mini_description": "A brand new sandbox game platform---Craft a new adventure 2020",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Geometry Dash Lite",
+            "app_link": "/store/apps/developer?id=RobTop+Games",
+            "app_mini_description": "Jump and fly your way through danger in this rythm-based action platformer!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Stick War: Legacy",
+            "app_link": "/store/apps/dev?id=5195759440434026200",
+            "app_mini_description": "Learn the way of the Sword, Spear, Archer, and Mage. Only you can free Inamorta!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Subway Surfers",
+            "app_link": "/store/apps/dev?id=7363891306616760846",
+            "app_mini_description": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Zombie Tsunami",
+            "app_link": "/store/apps/developer?id=Mobigame+S.A.R.L.",
+            "app_mini_description": "Attack the city with zombies! Form the biggest horde by making people zombies.",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Little Panda: Princess Makeup",
+            "app_link": "/store/apps/dev?id=4946022439885210717",
+            "app_mini_description": "Become a makeup artist and make the princess up for a party!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Shadow Fight 2",
+            "app_link": "/store/apps/dev?id=7514532260246976284",
+            "app_mini_description": "Prepare to fight with shadows!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Moto X3M Bike Race Game",
+            "app_link": "/store/apps/developer?id=Ace+Viral",
+            "app_mini_description": "\ud83c\udfc6\ud83c\udfc1\ud83c\udfcd\ufe0fAwesome bike racing with crafted levels straight to your device \ud83c\udfcd\ufe0f\ud83c\udfc1\ud83c\udfc6",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Scary Teacher 3D",
+            "app_link": "/store/apps/developer?id=Z+%26+K+Games",
+            "app_mini_description": "It\u2019s time to Scare the Scary HighSchool Teacher !",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Truck games for kids - build a house, car wash",
+            "app_link": "/store/apps/dev?id=5796709972154726091",
+            "app_mini_description": "Kids games for boys: play tractor games for toddlers, game for kids 3 year old",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Hill Climb Racing 2",
+            "app_link": "/store/apps/dev?id=7064049075652771302",
+            "app_mini_description": "Drive & Race Uphill In This Online Multiplayer Racing Game! Play for free!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Candy Crush Saga",
+            "app_link": "/store/apps/dev?id=6577204690045492686",
+            "app_mini_description": "\ud83c\udf6d\u00a0The sweetest\u00a0puzzle game! Switch, match & blast candies to win levels!\u00a0\ud83c\udf6c",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Kick the Buddy",
+            "app_link": "/store/apps/dev?id=7486814720100409246",
+            "app_mini_description": "Smash and hit the buddy in our stress-relief game. Unlimited weapon arsenal.",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Ludo Club - Fun Dice Game",
+            "app_link": "/store/apps/dev?id=5236132833572659868",
+            "app_mini_description": "The best Ludo game of 2021 is here! JOIN THE CLUB and play with friends!!",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Paint By Number - Coloring Book & Color by Number",
+            "app_link": "/store/apps/dev?id=8186440931703540103",
+            "app_mini_description": "So relaxing and funny coloring game, I can\u2019t stop playing it!\ud83d\ude31",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Rope Hero: Vice Town",
+            "app_link": "/store/apps/dev?id=4904364455782296418",
+            "app_mini_description": "Super hero simulator",
+            "category": "Games "
+        },
+        {
+            "appTitle": "Clash of Clans",
+            "app_link": "/store/apps/dev?id=6715068722362591614",
+            "app_mini_description": "Epic combat strategy game. Build your village, train your troops & go to battle!",
+            "category": "Games "
+        }
+    ]
+}
