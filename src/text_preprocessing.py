@@ -3,6 +3,9 @@
 # https://towardsdatascience.com/setting-up-text-preprocessing-pipeline-using-scikit-learn-and-spacy-e09b9b76758f
 # Multiclass text classification: https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
 
+# TODO Get more data. Changes to the model show that more data will improve accuracy.
+# TODO Complete text preprocessing! We are using some bad examples!.
+
 
 import json
 import pandas as pd
@@ -80,10 +83,11 @@ df.groupby('category').app_mini_description.count().plot.bar(ylim=0)
 plt.show()
 
 # Create a tdif vectorizer with the following attributes.
-tfidf = TfidfVectorizer(sublinear_tf=True, min_df=5, norm='l2', encoding='latin-1', ngram_range=(1, 2), stop_words='english')
+tfidf = TfidfVectorizer(sublinear_tf=True, min_df=3, norm='l2', encoding='latin-1', ngram_range=(1,1), stop_words='english')
 
 # fit the tfdidf model to the app_mini_descriptions
 features = tfidf.fit_transform(df["app_mini_description"]).toarray()
+
 labels = df['category_id']
 
 # Each of the n app_mini_descriptions are now represented by m features which
@@ -93,16 +97,14 @@ print(features.shape)
 # Now, let us use chi2 to find terms that are most correlated with each
 # category
 
-N =2
+N = 5
 for category, category_id in sorted(category_to_id.items()):
     features_chi2 = chi2(features,labels==category_id)
     indicies = np.argsort(features_chi2[0])
     feature_names = np.array(tfidf.get_feature_names())[indicies]
     unigrams = [v for v in feature_names if len(v.split(' '))==1]
-    bigrams = [v for v in feature_names if len(v.split(' ')) ==2]
     print("#{}".format(category))
     print(" .Most correlated unigrams:\n{}".format('\n'.join(unigrams[-N:])))
-    print(" .Most correlated bigrams:\n{}".format('\n'.join(bigrams[-N:])))
 
 
 # In prelimiary results, it is clear that unigram model
@@ -124,12 +126,6 @@ tfidf_transformer = TfidfTransformer()
 X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
 
 clf = MultinomialNB().fit(X_train_tfidf, y_train)
-
-# Make a standard prediction. From here, we can tell that the mini_app_descriptions may not
-# provide sufficient data to predict app catagories.
-# TODO Consider changing mini app descriptions to just app descriptions.
-
-print(clf.predict(count_vec.transform(["Plan your life"])))
 
 
 # Let us now evaluate the results of our models and compare them to the following models:
@@ -161,4 +157,5 @@ print(cv_df.groupby('model_name').accuracy.mean())
 # TODO complete text preprocessing before the machine learning to imporve accuracy.
 # We only removed stop words.
 
+print(clf.predict(count_vec.transform(["New cars and trucks through vidmar motors"])))
 

@@ -2,7 +2,11 @@
   "app_link": [
     {
       "app_category": "Art and Design",
-      "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoaCAESDkFSVF9BTkRfREVTSUdOKgIIB1ICCAE%3D:S:ANO1ljJy3eQ&gsr=Ch2iChoIARIOQVJUX0FORF9ERVNJR04qAggHUgIIAQ%3D%3D:S:ANO1ljIR5CU&hl=en_US&gl=US"
+      "app_link": "https://play.google.com/store/search?q=Art%20%26%20Design&c=apps&hl=en_US&gl=US"
+    },
+    {
+      "app_category": "Augmented Reality",
+      "app_link": "https://play.google.com/store/apps/collection/cluster?clp=6gsvCi0KJ3Byb21vdGlvbl9kYXlkcmVhbV9zdG9yZWNhdGVnb3J5X2FyYXBwcxBKGAM%3D:S:ANO1ljLDFOc&gsr=CjLqCy8KLQoncHJvbW90aW9uX2RheWRyZWFtX3N0b3JlY2F0ZWdvcnlfYXJhcHBzEEoYAw%3D%3D:S:ANO1ljKjMrE&hl=en_US&gl=US"
     },
     {
       "app_category": "Augmented Reality",
@@ -13,84 +17,168 @@
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogodCAESEUFVVE9fQU5EX1ZFSElDTEVTKgIIB1ICCAE%3D:S:ANO1ljKStL8&gsr=CiCiCh0IARIRQVVUT19BTkRfVkVISUNMRVMqAggHUgIIAQ%3D%3D:S:ANO1ljJ-TRk&hl=en_US&gl=US"
     },
     {
+      "app_category": "Auto & Vehicles",
+      "app_link": "https://play.google.com/store/search?q=Auto%20%26%20Vehicle&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "Beauty",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoSCAESBkJFQVVUWSoCCAdSAggB:S:ANO1ljJ0zQY&gsr=ChWiChIIARIGQkVBVVRZKgIIB1ICCAE%3D:S:ANO1ljK2uX4&hl=en_US&gl=US"
+    },
+    {
+      "app_category": "Beauty",
+      "app_link": "https://play.google.com/store/search?q=Beauty&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Books and Reference",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogofCAESE0JPT0tTX0FORF9SRUZFUkVOQ0UqAggHUgIIAQ%3D%3D:S:ANO1ljKWVq4&gsr=CiKiCh8IARITQk9PS1NfQU5EX1JFRkVSRU5DRSoCCAdSAggB:S:ANO1ljJRBHo&hl=en_US&gl=US"
     },
     {
+      "app_category": "Books and Reference",
+      "app_link": "https://play.google.com/store/search?q=Books%20%26%20Reference&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "Business",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoUCAESCEJVU0lORVNTKgIIB1ICCAE%3D:S:ANO1ljL-OFs&gsr=CheiChQIARIIQlVTSU5FU1MqAggHUgIIAQ%3D%3D:S:ANO1ljKPhFI&hl=en_US&gl=US"
     },
     {
+      "app_category": "Business",
+      "app_link": "https://play.google.com/store/search?q=Business&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "Comics",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoSCAESBkNPTUlDUyoCCAdSAggB:S:ANO1ljJmsPk&gsr=ChWiChIIARIGQ09NSUNTKgIIB1ICCAE%3D:S:ANO1ljKDgII&hl=en_US&gl=US"
+    },
+     {
+      "app_category": "Comics",
+      "app_link": "https://play.google.com/store/search?q=Comics&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Communication",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoZCAESDUNPTU1VTklDQVRJT04qAggHUgIIAQ%3D%3D:S:ANO1ljKqHe4&gsr=ChyiChkIARINQ09NTVVOSUNBVElPTioCCAdSAggB:S:ANO1ljIpBzo&hl=en_US&gl=US"
     },
     {
+      "app_category": "Communication",
+      "app_link": "https://play.google.com/store/search?q=Communication&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "Dating",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=0g4aChgKEnRvcGdyb3NzaW5nX0RBVElORxAHGAM%3D:S:ANO1ljJoXc4&gsr=Ch3SDhoKGAoSdG9wZ3Jvc3NpbmdfREFUSU5HEAcYAw%3D%3D:S:ANO1ljLZt7Q&hl=en_US&gl=US"
+    },
+     {
+      "app_category": "Dating",
+      "app_link": "https://play.google.com/store/search?q=Dating&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Daydream",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=an8KNgowcHJvbW90aW9uXzMwMDI1ZTFfZGF5ZHJlYW1fc3RvcmVjYXRlZ29yeV90b3BhcHBzEAcYAxJFCj92cl90b3BfZGV2aWNlX2ZlYXR1cmVkX2NhdGVnb3J5X2FwcHNfX18xX3Byb21vXzE1NDMzNTYyOTQ1NzYwMDAQDBgD:S:ANO1ljIyjUI&gsr=CoEBan8KNgowcHJvbW90aW9uXzMwMDI1ZTFfZGF5ZHJlYW1fc3RvcmVjYXRlZ29yeV90b3BhcHBzEAcYAxJFCj92cl90b3BfZGV2aWNlX2ZlYXR1cmVkX2NhdGVnb3J5X2FwcHNfX18xX3Byb21vXzE1NDMzNTYyOTQ1NzYwMDAQDBgD:S:ANO1ljL4zsA&hl=en_US&gl=US"
     },
     {
+      "app_category": "Daydream",
+      "app_link": "https://play.google.com/store/search?q=Daydream&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "Education",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoVCAESCUVEVUNBVElPTioCCAdSAggB:S:ANO1ljJexIQ&gsr=ChiiChUIARIJRURVQ0FUSU9OKgIIB1ICCAE%3D:S:ANO1ljKyA18&hl=en_US&gl=US"
+    },
+    {
+      "app_category": "Education",
+      "app_link": "https://play.google.com/store/search?q=Education&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Entertainment",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoZCAESDUVOVEVSVEFJTk1FTlQqAggHUgIIAQ%3D%3D:S:ANO1ljK13fQ&gsr=ChyiChkIARINRU5URVJUQUlOTUVOVCoCCAdSAggB:S:ANO1ljIZ-VM&hl=en_US&gl=US"
     },
     {
+      "app_category": "Entertainment",
+      "app_link": "https://play.google.com/store/search?q=Entertainment&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "Events",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoSCAESBkVWRU5UUyoCCAdSAggB:S:ANO1ljKHiHU&gsr=ChWiChIIARIGRVZFTlRTKgIIB1ICCAE%3D:S:ANO1ljJWH00&hl=en_US&gl=US"
+    },
+    {
+      "app_category": "Events",
+      "app_link": "https://play.google.com/store/search?q=Events&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Finance",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoTCAESB0ZJTkFOQ0UqAggHUgIIAQ%3D%3D:S:ANO1ljKOn7g&gsr=ChaiChMIARIHRklOQU5DRSoCCAdSAggB:S:ANO1ljLmVzI&hl=en_US&gl=US"
     },
     {
+      "app_category": "Finance",
+      "app_link": "https://play.google.com/store/search?q=Finance&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "Food & Drink",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoaCAESDkZPT0RfQU5EX0RSSU5LKgIIB1ICCAE%3D:S:ANO1ljKFOlk&gsr=Ch2iChoIARIORk9PRF9BTkRfRFJJTksqAggHUgIIAQ%3D%3D:S:ANO1ljLWIvc&hl=en_US&gl=US"
+    },
+    {
+      "app_category": "Food & Drink",
+      "app_link": "https://play.google.com/store/search?q=Food%20%26%20Drink&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Health & Fitness",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoeCAESEkhFQUxUSF9BTkRfRklUTkVTUyoCCAdSAggB:S:ANO1ljLz90Y&gsr=CiGiCh4IARISSEVBTFRIX0FORF9GSVRORVNTKgIIB1ICCAE%3D:S:ANO1ljLIBUo&hl=en_US&gl=US"
     },
     {
+      "app_category": "Health & Fitness",
+      "app_link": "https://play.google.com/store/search?q=Health%20%26%20Fitness&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "House & Home",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoaCAESDkhPVVNFX0FORF9IT01FKgIIB1ICCAE%3D:S:ANO1ljI61gs&gsr=Ch2iChoIARIOSE9VU0VfQU5EX0hPTUUqAggHUgIIAQ%3D%3D:S:ANO1ljJ-4CI&hl=en_US&gl=US"
+    },
+     {
+      "app_category": "House & Home",
+      "app_link": "https://play.google.com/store/search?q=House%20%26%20Home&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Libraries & Demo ",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=0g4qCigKInRvcHNlbGxpbmdfZnJlZV9MSUJSQVJJRVNfQU5EX0RFTU8QBxgD:S:ANO1ljJDMDc&gsr=Ci3SDioKKAoidG9wc2VsbGluZ19mcmVlX0xJQlJBUklFU19BTkRfREVNTxAHGAM%3D:S:ANO1ljLUmPI&hl=en_US&gl=US"
+    },
+      {
+      "app_category": "Libraries & Demo ",
+      "app_link": "https://play.google.com/store/search?q=Libraries%20%26%20Demo&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Lifestyle",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoVCAESCUxJRkVTVFlMRSoCCAdSAggB:S:ANO1ljKvSJ4&gsr=ChiiChUIARIJTElGRVNUWUxFKgIIB1ICCAE%3D:S:ANO1ljJ4w4I&hl=en_US&gl=US"
     },
     {
+      "app_category": "Lifestyle",
+      "app_link": "https://play.google.com/store/search?q=Lifestyle&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "Maps & Navigation",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogofCAESE01BUFNfQU5EX05BVklHQVRJT04qAggHUgIIAQ%3D%3D:S:ANO1ljJG6fo&gsr=CiKiCh8IARITTUFQU19BTkRfTkFWSUdBVElPTioCCAdSAggB:S:ANO1ljLFPeQ&hl=en_US&gl=US"
+    },
+     {
+      "app_category": "Maps & Navigation",
+      "app_link": "https://play.google.com/store/search?q=Maps%20%26%20Navigation&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Medical",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=0g4eChwKFm1vdmVyc19zaGFrZXJzX01FRElDQUwQBxgD:S:ANO1ljLvUvs&gsr=CiHSDh4KHAoWbW92ZXJzX3NoYWtlcnNfTUVESUNBTBAHGAM%3D:S:ANO1ljKx8Eg&hl=en_US&gl=US"
+    },
+     {
+      "app_category": "Medical",
+      "app_link": "https://play.google.com/store/search?q=Medical&c=apps&hl=en_US&gl=US"
     },
     {
       "app_category": "Music and Audio",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogobCAESD01VU0lDX0FORF9BVURJTyoCCAdSAggB:S:ANO1ljJEFE4&gsr=Ch6iChsIARIPTVVTSUNfQU5EX0FVRElPKgIIB1ICCAE%3D:S:ANO1ljJ7wpw&hl=en_US&gl=US"
     },
     {
+      "app_category": "Music and Audio",
+      "app_link": "https://play.google.com/store/search?q=Music%20and%20Audio&c=apps&hl=en_US&gl=US"
+    },
+    {
       "app_category": "Games ",
       "app_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoQCAESBEdBTUUqAggCUgIIAQ%3D%3D:S:ANO1ljJlEdM&gsr=ChOiChAIARIER0FNRSoCCAJSAggB:S:ANO1ljJdubc&hl=en_US&gl=US"
+    },
+    {
+      "app_category": "Games ",
+      "app_link": "https://play.google.com/store/search?q=Games&c=apps&hl=en_US&gl=US"
     }
   ]
 }
