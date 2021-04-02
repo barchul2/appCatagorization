@@ -29,40 +29,41 @@ def read_json_file(data):
 # Output: A list of tokens extracted from each json file.
 def extract_values(data):
     data_string = str(data["results"])
-    matches = re.findall("\'SIMILAR_PRIVACY_RELATED_TOKEN\':.'[a-zA-Z]*'", data_string)
-
+    matches = re.findall("ANDROID_APP_TOKEN\':.\'[a-zA-Z]*\'", data_string)
     temp_list = []
 
     for item in matches:
         temp = str(item)
-        temp = temp.replace("SIMILAR_PRIVACY_RELATED_TOKEN", " ").replace("\'", "").replace(":","").strip()
+        temp = temp.replace("ANDROID_APP_TOKEN", " ").replace("\'", "").replace(":","").strip()
 
         temp_list.append(temp)
 
     matches=temp_list
-    print(matches)
+
+    # Return the list of tokens for the json file data.
+    return matches
 
 
 for dirname, subdirlist, fileList in os.walk(root_dir):
 
+    # Identify the category of the results file.
     category = dirname[93:]
 
     # this is the identified file.
     for fname in fileList:
 
+        # Creates the path to each results file in the directory.
         file_name = "{}/{}".format(dirname,fname)
 
+        # Reads the text data from the results files in json format.
         text_preprocess = read_json_file(file_name)
-        extract_values(text_preprocess)
+
+        # Extracts tokens from the specific results file and returns them as a list.
+        token_list = extract_values(text_preprocess)
+
+        print(token_list)
 
 
-
-
-
-
-
-            #TODO Read json data and extract results list. Then extract tojens from results list which are in the form of dicts.
-            #TODO figure out why only specific categories are being read!
 
 
 
